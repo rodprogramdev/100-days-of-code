@@ -21,12 +21,29 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1:  November 1, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: <!--I've gone through many exercises on FreeCodeCamp.-->
+Reviewed the 100daysofCode challenge rules and created a new Github account and Freecodecamp account to restart from the very beginning of the challenge. Made my "hello world" repository and currently working on the beginning of the freecodecamp 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: 
+<!--I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.-->
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/rodprogramdev : Making dead links using the Hash Symbol
+2. https://github.com/rodprogramdev/hello-world: My first repository
+
+
+
+### Day 2:  November 2, 2018
+
+**Today's Progress**: <!--I've gone through many exercises on FreeCodeCamp.-->
+Reviewed the 100daysofCode challenge rules and created a new Github account and Freecodecamp account to restart from the very beginning of the challenge. Made my "hello world" repository and currently working on the beginning of the freecodecamp 
+
+**Thoughts**: 
+<!--I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.-->
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
