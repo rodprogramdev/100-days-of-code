@@ -62,28 +62,47 @@ I have started to make a layout for the Photography website that i'm working on 
 18. Create A Form Element	November 2, 2018	
 19. Add Placeholder Text To A Text Field	November 2, 2018	
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### Day 3:  November 3, 2018
 
-**Today's Progress**: <!--I've gone through many exercises on FreeCodeCamp.-->
-Reviewed the 100daysofCode challenge rules and created a new Github account and Freecodecamp account to restart from the very beginning of the challenge. Made my "hello world" repository and currently working on the beginning of the freecodecamp 
+**Today's Progress**: Today I was able to finish the Freecodecamp Basic CSS section and learned about how to use the CSS Var and Fallbacks.  Moving forward to Visual Design. 
 
-**Thoughts**: 
-<!--I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.-->
+**Thoughts**: Planning to apply this in the design that im formulating for the Photography website of my sister.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-
+Challenge	Completed
+1.Use A Media Query To Change A Variable	November 3, 2018	
+2.Change A Variable for A Specific Area	November 3, 2018	
+3.Cascading Css Variables	November 3, 2018	
+4. Improve Compatibility with Browser Fallbacks	November 3, 2018	
+5. Attach A Fallback Value To A Css Variable	November 3, 2018	
+6.Use A Custom Css Variable	November 3, 2018	
+7.Create A Custom Css Variable	November 3, 2018	
+8.Use Css Variables To Change Several Elements At Once	November 2, 2018	
+9.Use Rgb To Mix Colors	November 2, 2018	
+10.Use Rgb Values To Color Elements	November 2, 2018	
+11.Use Abbreviated Hex Code	November 2, 2018	
+12.Use Hex Code To Mix Colors	November 2, 2018	
+13.Use Hex Code for Specific Colors	November 2, 2018	
+14.Override All Other Styles By Using Important	November 2, 2018	
+15.Override Class Declarations with Inline Styles	November 2, 2018	
+16.Override Class Declarations By Styling Id Attributes	November 2, 2018	
+17.Override Styles In Subsequent Css	November 2, 2018	
+18.Prioritize One Style Over Another	November 2, 2018	
+19.Inherit Styles From the Body Element	November 2, 2018	
+20.Style the Html Body Element	November 2, 2018	
+21.Understand Absolute Versus Relative Units	November 2, 2018	
+22.Use Attribute Selectors To Style Elements	November 2, 2018	
+23.Use Clockwise Notation To Specify the Margin of An Element	November 2, 2018	
+24.Use Clockwise Notation To Specify the Padding of An Element	November 2, 2018	
+25.Add Different Margins To Each Side of An Element	November 2, 2018	
+26.Add Different Padding To Each Side of An Element	November 2, 2018	
+27.Add A Negative Margin To An Element	November 2, 2018	
+28.Adjust the Margin of An Element	November 2, 2018	
+29.Adjust the Padding of An Element	November 2, 2018	
+30.Use An Id Attribute To Style An Element	November 2, 2018	
+31.Set the Id of An Element	November 2, 2018	
+32.Give A Background Color To A Div Element	November 2, 2018	
+33.Make Circular Images with A Border Radius	November 2, 2018	
+34.Add Rounded Corners with Border Radius	November 2, 2018	
+35.Add Borders Around Your Elements	November 2, 2018
