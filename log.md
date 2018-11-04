@@ -106,3 +106,12 @@ Challenge	Completed
 33.Make Circular Images with A Border Radius	November 2, 2018	
 34.Add Rounded Corners with Border Radius	November 2, 2018	
 35.Add Borders Around Your Elements	November 2, 2018
+
+### Day 4:  November 4, 2018
+
+**Today's Progress**: Today I was able to finish the freecodecamp Applied Visual Design and reviewed the use of the Bezier Curve and @keyframes for animation.
+
+**Thoughts**: Still need to review this section to fully grasps the concept of animation with the use of Bezier Curve. I will be applying some of the techniques in the website that I'm working on. Also doing some research on color theories.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/rodprogramdev Public Portfolio
