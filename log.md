@@ -115,3 +115,12 @@ Challenge	Completed
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/rodprogramdev Public Portfolio
+
+### Day 5:  November 5, 2018
+
+**Today's Progress**: Today I was able to accomplish finishing the Applied Accessibility section of Freecodecamp.
+
+**Thoughts**: Learned about Tabindex and the importance of accessibility functions for disable and color blinds. Also started with the Photography site.
+
+**Link(s) to work**
+1 . https://www.freecodecamp.org/rodprogramdev
