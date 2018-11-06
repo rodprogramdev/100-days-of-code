@@ -124,3 +124,12 @@ Challenge	Completed
 
 **Link(s) to work**
 1 . https://www.freecodecamp.org/rodprogramdev
+
+### Day 6:  November 6, 2018
+
+**Today's Progress**: Today I was able to accomplish the CSS flexbox section and currently moving to the lesson about CSS Grids. 
+
+**Thoughts**: Wasn't able to code that much today because of work. 
+
+**Link(s) to work**
+1 . https://www.freecodecamp.org/rodprogramdev
