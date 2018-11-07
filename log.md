@@ -133,3 +133,13 @@ Challenge	Completed
 
 **Link(s) to work**
 1 . https://www.freecodecamp.org/rodprogramdev
+
+### Day 7:  November 7, 2018
+
+**Today's Progress**: Today I was able to accomplish the CSS Grid section and moving to the Web design projects. 
+
+**Thoughts**: I still haven't fully grasp the CSS so I'll go back to reading about it some more. I'm also working on the Photography site.
+
+**Link(s) to work**
+1 . https://www.freecodecamp.org/rodprogramdev
+
