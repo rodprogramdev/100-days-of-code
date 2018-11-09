@@ -143,6 +143,6 @@ Challenge	Completed
 **Link(s) to work**
 1 . https://www.freecodecamp.org/rodprogramdev
 
-#100daysofCode #R8D8:  November 8, 2018
+### Day 8:  November 8, 2018
 **Today's Progress**: Today I started my tribute page challenge for the responsive web design in freecodecamp. 
 **Thoughts*:Arrived late at home from work, but working on at least finishing the initial details of the user stories.
