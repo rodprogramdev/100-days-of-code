@@ -146,3 +146,10 @@ Challenge	Completed
 ### Day 8:  November 8, 2018
 **Today's Progress**: Today I started my tribute page challenge for the responsive web design in freecodecamp. 
 **Thoughts*:Arrived late at home from work, but working on at least finishing the initial details of the user stories.
+
+## Day 9: November 9, 2018
+Today's Progress: Partially completed my Tribute page, re-learned how to use Github for linking images to codepen.
+Thoughts: Going to apply some basic animation to my Tribute page. Still going to work on the design some more. 
+
+Links to work: 
+https://codepen.io/rodrigo-lopez/pen/YRqdBM
