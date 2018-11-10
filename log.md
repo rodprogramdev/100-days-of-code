@@ -153,3 +153,10 @@ Thoughts: Going to apply some basic animation to my Tribute page. Still going to
 
 Links to work: 
 https://codepen.io/rodrigo-lopez/pen/YRqdBM
+
+# Day 10: November 10, 2018
+Today's Progress: Partially completed the Survey Form challenge, done with the requirements moving to responsive design. 
+Thoughts: Still need to study and understand the concept of inheritance. 
+
+Links to work: 
+https://codepen.io/rodrigo-lopez/pen/dQXMPL?editors=1000
