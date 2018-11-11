@@ -160,3 +160,10 @@ Thoughts: Still need to study and understand the concept of inheritance.
 
 Links to work: 
 https://codepen.io/rodrigo-lopez/pen/dQXMPL?editors=1000
+
+# Day 11: November 11, 2018
+Today's Progress: Reviewed how to declare variables in SCSS and learned about the 60/30/10 rule and accent colors. 
+Thoughts: Still working on understanding the concept of absolute, relative, inline, and block positioning. 
+
+Links to work: 
+https://codepen.io/rodrigo-lopez/pen/dQXMPL?editors=0100
