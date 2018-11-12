@@ -167,3 +167,10 @@ Thoughts: Still working on understanding the concept of absolute, relative, inli
 
 Links to work: 
 https://codepen.io/rodrigo-lopez/pen/dQXMPL?editors=0100
+
+# Day 12: November 12, 2018
+Today's Progress: Experimented with some animation features and reviewed pseudo classes.  
+Thoughts: Background-image: url("") not working with link in github, still looking for resources to link images to codepen. 
+
+Links to work: 
+https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=0100
