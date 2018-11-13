@@ -174,3 +174,12 @@ Thoughts: Background-image: url("") not working with link in github, still looki
 
 Links to work: 
 https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=0100
+
+
+# Day 13: November 13, 2018
+Today's Progress: Learned about the different flexbox property, still currently working on the responsive design of my FreeCodeCamp Challenge.  
+Thoughts: Wasn't able to code that much today, only for an hour because of work. 
+
+Links to work: 
+https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=0100
+
