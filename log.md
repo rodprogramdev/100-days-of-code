@@ -183,3 +183,10 @@ Thoughts: Wasn't able to code that much today, only for an hour because of work.
 Links to work: 
 https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=0100
 
+# Day 14: November 14, 2018
+Today's Progress: Still stuck with responsive design for my survey form. Been reading materials about visual formating model in CSS.
+Thoughts: Still need to grasp the concept of responsive design. Going to do more research about this.
+
+Links to work:
+https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=1000
+
