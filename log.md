@@ -190,3 +190,11 @@ Thoughts: Still need to grasp the concept of responsive design. Going to do more
 Links to work:
 https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=1000
 
+
+# Day 15: November 16, 2018
+Today's Progress: Worked on responsiveness of the text-area thanks to Vince, my coding buddy for teaching me a way to center some of my elements.
+Thoughts: Finish positioning the submit button going for better responsive fonts.
+
+Links to work:
+https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=1100
+
