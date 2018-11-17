@@ -198,3 +198,7 @@ Thoughts: Finish positioning the submit button going for better responsive fonts
 Links to work:
 https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=1100
 
+# Day 16: November 17, 2018
+Today's Progress: Accomplish applying responsive font in my Survey Challenge and started my FCC landing page, reviewed how to make an animated button.  
+Thoughts: I was able to work on positioning and still reviewing its concepts. 
+Links to work:
