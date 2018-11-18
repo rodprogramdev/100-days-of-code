@@ -202,3 +202,8 @@ https://codepen.io/rodrigo-lopez/pen/aQmyzZ?editors=1100
 Today's Progress: Accomplish applying responsive font in my Survey Challenge and started my FCC landing page, reviewed how to make an animated button.  
 Thoughts: I was able to work on positioning and still reviewing its concepts. 
 Links to work:
+
+# Day 17: November 18, 2018
+Today's Progress: Applied pseudo ::after element to button, accomplished animating the button. 
+Thoughts: Was able to further understand the use of the pseudo after element.  
+Links to work:
