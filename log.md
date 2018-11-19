@@ -208,7 +208,7 @@ Today's Progress: Applied pseudo ::after element to button, accomplished animati
 Thoughts: Was able to further understand the use of the pseudo after element.  
 Links to work:
 
-#Day 18: Nov 19, 2018
+## Day 18: November 19, 2018
 Today's Progress: Applied the "BEM" model in my mark-up and the use of REM units. Working on my navigation links.  
 Thoughts: Learned how to use REM units over pixels for better responsive designs.  Also reviewed lessons about NPM scripts.
 
