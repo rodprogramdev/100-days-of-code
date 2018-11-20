@@ -212,3 +212,6 @@ Links to work:
 Today's Progress: Applied the "BEM" model in my mark-up and the use of REM units. Working on my navigation links.  
 Thoughts: Learned how to use REM units over pixels for better responsive designs.  Also reviewed lessons about NPM scripts.
 
+## Day 19: November 20, 2018
+Today's Progress: Reviewed lessons on how to use mixins, functions, and extends in SASS.   
+Thoughts: Installed node.js in my laptop for SASS application in my projects. Going to recreate my project in Codepen. 
