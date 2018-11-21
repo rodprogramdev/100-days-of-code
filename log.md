@@ -214,4 +214,11 @@ Thoughts: Learned how to use REM units over pixels for better responsive designs
 
 ## Day 19: November 20, 2018
 Today's Progress: Reviewed lessons on how to use mixins, functions, and extends in SASS.   
-Thoughts: Installed node.js in my laptop for SASS application in my projects. Going to recreate my project in Codepen. 
+Thoughts: Installed node.js in my laptop for SASS application in my projects. Going to recreate my project in Codepen.
+
+## Day 20: November 21, 2018
+Today's Progress: Applied using node-sass and installed npm live-server for using sass a development environment.    
+Thoughts: encountering problems with the compilaiton of my scss to css, explored how to change the default browser in windows through default programs in control panel.
+
+
+
