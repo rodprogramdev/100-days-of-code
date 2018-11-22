@@ -221,4 +221,8 @@ Today's Progress: Applied using node-sass and installed npm live-server for usin
 Thoughts: encountering problems with the compilaiton of my scss to css, explored how to change the default browser in windows through default programs in control panel.
 
 
+## Day 21: November 22, 2018
+Today's Progress: Stuck in converting my code to use "BEM" and navigation links not working the way I want to when I converted them to node-sass.     
+Thoughts: Only was able to code 1 hour for today due to non-coding related work. Going to work on finding a solution to my SASS code not compiling to CSS code error 
+
 
