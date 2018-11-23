@@ -225,4 +225,8 @@ Thoughts: encountering problems with the compilaiton of my scss to css, explored
 Today's Progress: Stuck in converting my code to use "BEM" and navigation links not working the way I want to when I converted them to node-sass.     
 Thoughts: Only was able to code 1 hour for today due to non-coding related work. Going to work on finding a solution to my SASS code not compiling to CSS code error 
 
+## Day 22: November 23, 2018
+Today's Progress:  Working on tidying the architecture of my project and applied what I've learned from @JonasScmedtt UDEMY course.
+Thoughts:npm run compile seams to be working fine but still curios with what that code error yesterday was. :)
+links to work: https://codepen.io/rodrigo-lopez/
 
