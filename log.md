@@ -230,3 +230,6 @@ Today's Progress:  Working on tidying the architecture of my project and applied
 Thoughts:npm run compile seams to be working fine but still curios with what that code error yesterday was. :)
 links to work: https://codepen.io/rodrigo-lopez/
 
+## Day 23: November 24, 2018
+Today's Progress:  Still working on the grid layout of the design.
+Thoughts: Working on responsive design and repositiong some of the elements of my work.
