@@ -233,3 +233,7 @@ links to work: https://codepen.io/rodrigo-lopez/
 ## Day 23: November 24, 2018
 Today's Progress:  Still working on the grid layout of the design.
 Thoughts: Working on responsive design and repositiong some of the elements of my work.
+
+# Day 24: November 25, 2018
+Today's Progress:  Still looking for the reason why my scss code is not automatically compiling in the command line and not saving to my css file. Continued studyng the grid layouts. 
+Thoughts: Tested re-installing the npm package and the live-server and transferred the files to Desktop for faster compiling. Wondering if it is bad to delete this package.lock.json?  
