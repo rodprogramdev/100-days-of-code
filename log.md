@@ -237,3 +237,7 @@ Thoughts: Working on responsive design and repositiong some of the elements of m
 # Day 24: November 25, 2018
 Today's Progress:  Still looking for the reason why my scss code is not automatically compiling in the command line and not saving to my css file. Continued studyng the grid layouts. 
 Thoughts: Tested re-installing the npm package and the live-server and transferred the files to Desktop for faster compiling. Wondering if it is bad to delete this package.lock.json?  
+
+#Day 25: November 26, 2018
+Today's Progress: Working on the about section today.
+Thoughts: Been experimenting, I found out that my page would work and compile sass, everytime I save my main.scss file that contains the @import code. 
