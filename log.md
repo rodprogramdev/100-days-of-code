@@ -241,3 +241,7 @@ Thoughts: Tested re-installing the npm package and the live-server and transferr
 #Day 25: November 26, 2018
 Today's Progress: Working on the about section today.
 Thoughts: Been experimenting, I found out that my page would work and compile sass, everytime I save my main.scss file that contains the @import code. 
+
+# Day 26: November 27, 2018
+Today's Progress:  Continued with the about section, reviewed how to define utility code in css through SASS 
+Thoughts: Thanks to a friend, I learned that i was doing the #100daysofcode tag Round wrong. I should be using #R1D26 not #R25D25. Going to correct it now ;) 
