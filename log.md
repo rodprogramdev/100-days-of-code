@@ -238,10 +238,13 @@ Thoughts: Working on responsive design and repositiong some of the elements of m
 Today's Progress:  Still looking for the reason why my scss code is not automatically compiling in the command line and not saving to my css file. Continued studyng the grid layouts. 
 Thoughts: Tested re-installing the npm package and the live-server and transferred the files to Desktop for faster compiling. Wondering if it is bad to delete this package.lock.json?  
 
-#Day 25: November 26, 2018
+# Day 25: November 26, 2018
 Today's Progress: Working on the about section today.
 Thoughts: Been experimenting, I found out that my page would work and compile sass, everytime I save my main.scss file that contains the @import code. 
 
 # Day 26: November 27, 2018
 Today's Progress:  Continued with the about section, reviewed how to define utility code in css through SASS 
 Thoughts: Thanks to a friend, I learned that i was doing the #100daysofcode tag Round wrong. I should be using #R1D26 not #R25D25. Going to correct it now 
+
+# Day 27: November 28, 2018
+Today's Progress:  Still working with my about page, applied what I've learned in my UDEMY online course for the layout of the description and animated button. Going to review this again to retain the information. 
