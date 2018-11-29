@@ -247,4 +247,8 @@ Today's Progress:  Continued with the about section, reviewed how to define util
 Thoughts: Thanks to a friend, I learned that i was doing the #100daysofcode tag Round wrong. I should be using #R1D26 not #R25D25. Going to correct it now 
 
 # Day 27: November 28, 2018
-Today's Progress:  Still working with my about page, applied what I've learned in my UDEMY online course for the layout of the description and animated button. Going to review this again to retain the information. 
+Today's Progress:  Still working with my about page, applied what I've learned in my UDEMY online course for the layout of the description and animated button. Going to review this again to retain the information.
+
+# Day 28: November 29, 2018
+Today's Progrress: Added pictures in my about page, working on responsive images.
+Thoughts: Wasn't able to code that much reviewed how to apply hover animation to images and repositioning them.
