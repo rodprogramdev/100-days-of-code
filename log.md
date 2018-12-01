@@ -252,3 +252,8 @@ Today's Progress:  Still working with my about page, applied what I've learned i
 # Day 28: November 29, 2018
 Today's Progrress: Added pictures in my about page, working on responsive images.
 Thoughts: Wasn't able to code that much reviewed how to apply hover animation to images and repositioning them.
+
+# Day 29: December 1, 2018
+Progress: Currently working on the feature card section of my landing page.
+Thoughts: Wasn't able to code yesterday due to work.
+
