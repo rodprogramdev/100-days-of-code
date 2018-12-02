@@ -257,3 +257,7 @@ Thoughts: Wasn't able to code that much reviewed how to apply hover animation to
 Progress: Currently working on the feature card section of my landing page.
 Thoughts: Wasn't able to code yesterday due to work.
 
+# Day 30: December 2, 2018
+Progress: Still working on the product and features section.
+Thoughts: Having problem with the grid system. 
+
