@@ -261,3 +261,6 @@ Thoughts: Wasn't able to code yesterday due to work.
 Progress: Still working on the product and features section.
 Thoughts: Having problem with the grid system. 
 
+# Day 31: December 5, 2018
+Progress: Still stuck with the problem of aligning the feature boxes. Studied github pages.
+Thoughts: Wasn't able to code for 2 days due to other committments.
