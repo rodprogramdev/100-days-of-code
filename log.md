@@ -268,3 +268,7 @@ Thoughts: Wasn't able to code for 2 days due to other committments.
 # Day 32: December 7, 2018
 Progress: Was able to find how to arrange the cards in my feature grid section today. 
 Thoughts: found the problem with the computation in the Grid system column layout. 
+
+# Day 33: December 8, 2018
+Progress: Included a background picture in my feature section, also read about git branching. 
+Thoughts: So many things to learn so little time. 
