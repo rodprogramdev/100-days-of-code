@@ -273,7 +273,8 @@ Thoughts: found the problem with the computation in the Grid system column layou
 Progress: Included a background picture in my feature section, also read about git branching. 
 Thoughts: So many things to learn so little time. 
 
-#Day 33: December 9, 2018
+
+# Day 34: December 9, 2018
 Progress: Working on the Project portfolio section, applied what i've learned from Jonas Schmedtmann animaton cards.
 Thoughts: Retention of the concepts is still my greatest challenge. Going to go back through the lessons to further understand syntax and concepts. 
 
