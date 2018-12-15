@@ -278,4 +278,9 @@ Thoughts: So many things to learn so little time.
 Progress: Working on the Project portfolio section, applied what i've learned from Jonas Schmedtmann animaton cards.
 Thoughts: Retention of the concepts is still my greatest challenge. Going to go back through the lessons to further understand syntax and concepts. 
 
+# Day 35: December 15, 2018
+Progress: Still working on the portfolio section, applied what I've learned from Jonas Schmedtmann animation cards.
+Thoughts: Haven't been able to code for a while, but did some research about cyber security topics and watch how to make mirrors effects in games.
+
+
 
