@@ -282,5 +282,8 @@ Thoughts: Retention of the concepts is still my greatest challenge. Going to go 
 Progress: Still working on the portfolio section, applied what I've learned from Jonas Schmedtmann animation cards.
 Thoughts: Haven't been able to code for a while, but did some research about cyber security topics and watch how to make mirrors effects in games.
 
+# Day 36: December 16, 2018
+Progress: Finished my portfolio section for the Freecodecamp Landing page challenge.
+
 
 
