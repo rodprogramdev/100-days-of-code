@@ -288,3 +288,5 @@ Progress: Finished my portfolio section for the Freecodecamp Landing page challe
 # Day 37: December 17, 2018
 Progress: Started working on the customer story section and applied what I've learned from @JonasSchmedtman. Going to work on how to upload my project in github pages so that it can be viewable. 
 
+# Day 38: December 18, 2018
+Progress: Did not do any coding today, just did some tutorials in SOLOLEARN for PYTHON.
