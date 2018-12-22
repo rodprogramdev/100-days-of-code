@@ -290,3 +290,7 @@ Progress: Started working on the customer story section and applied what I've le
 
 # Day 38: December 18, 2018
 Progress: Did not do any coding today, just did some tutorials in SOLOLEARN for PYTHON.
+
+# Day 39: December 21, 2018
+Progress: Still working on the story section, reviewed lessons on how to use the CSS filter property. 
+
