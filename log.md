@@ -294,3 +294,7 @@ Progress: Did not do any coding today, just did some tutorials in SOLOLEARN for 
 # Day 39: December 22, 2018
 Progress: Still working on the story section, reviewed lessons on how to use the CSS filter property. 
 
+# Day 40: December 24, 2018
+Progress: Reviewed how to insert video to a section of my story page, used object-fit property and remembered how to use the overflow property. Found solution to the problem of distance from my story and sample section. 
+
+
