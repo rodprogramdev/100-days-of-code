@@ -297,4 +297,7 @@ Progress: Still working on the story section, reviewed lessons on how to use the
 # Day 40: December 24, 2018
 Progress: Reviewed how to insert video to a section of my story page, used object-fit property and remembered how to use the overflow property. Found solution to the problem of distance from my story and sample section. 
 
+# Day 41: December 25, 2018
+Progress: Started my reservation section and reviewed how to use the solid color radient for design of cliping a part of a form. Had a family celebration today so very short time alotted for coding have a Merry Christmas to all coders. 
+
 
