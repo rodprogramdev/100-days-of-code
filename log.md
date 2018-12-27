@@ -300,4 +300,5 @@ Progress: Reviewed how to insert video to a section of my story page, used objec
 # Day 41: December 25, 2018
 Progress: Started my reservation section and reviewed how to use the solid color radient for design of cliping a part of a form. Had a family celebration today so very short time alotted for coding have a Merry Christmas to all coders. 
 
-
+# Day 42: December 27, 2018
+Progress: Reviewed how to create a form and applied the adjacent sibling selector and invalid pseudo class in my css form.
