@@ -304,5 +304,5 @@ Progress: Started my reservation section and reviewed how to use the solid color
 Progress: Reviewed how to create a form and applied the adjacent sibling selector and invalid pseudo class in my css form.
 
 # Day 43: December 28, 2018
-Progress: Reviewed how to make use of radio buttons and applied it in my reservation section.
+Progress: Reviewed how to make use of radio buttons and applied it in my reservation section. Still working on the submit button.
 
