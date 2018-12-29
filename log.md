@@ -306,3 +306,5 @@ Progress: Reviewed how to create a form and applied the adjacent sibling selecto
 # Day 43: December 28, 2018
 Progress: Reviewed how to make use of radio buttons and applied it in my reservation section. Still working on the submit button.
 
+# Day 44: December 29, 2018
+Progress: Started with my footer section and still troubleshooting the issue with the send button in my reservation section. Did some laptop computer repair services today for extra side income and wasn't able to code that much.
