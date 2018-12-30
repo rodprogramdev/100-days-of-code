@@ -308,3 +308,6 @@ Progress: Reviewed how to make use of radio buttons and applied it in my reserva
 
 # Day 44: December 29, 2018
 Progress: Started with my footer section and still troubleshooting the issue with the send button in my reservation section. Did some laptop computer repair services today for extra side income and wasn't able to code that much.
+
+# Day 45: December 30, 2018
+Progress: Reviewed how to make an animated navigation bar, I was able to accomplish finishing the footer section of the page. 
