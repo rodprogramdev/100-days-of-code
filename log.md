@@ -311,3 +311,7 @@ Progress: Started with my footer section and still troubleshooting the issue wit
 
 # Day 45: December 30, 2018
 Progress: Reviewed how to make an animated navigation bar, I was able to accomplish finishing the footer section of the page. 
+
+
+# Day 46: January 1, 2018
+Progress: Still working on the navigation link, applying what I have learned from Jonathan Schemdts course.
