@@ -315,3 +315,7 @@ Progress: Reviewed how to make an animated navigation bar, I was able to accompl
 
 # Day 46: January 1, 2018
 Progress: Still working on the navigation link, applying what I have learned from Jonathan Schemdts course.
+
+# Day 47: January 2, 2018
+Progress: Reviewed how to use the checkbox hack, cubic bezier and the ease functions for the navigation section of the landing page that I'm working on. 
+
