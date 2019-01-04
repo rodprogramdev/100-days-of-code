@@ -322,3 +322,6 @@ Progress: Reviewed how to use the checkbox hack, cubic bezier and the ease funct
 # Day 48: January 3, 2018
 Progress: I was able to learn how to use a box-shadow generator today, learned the transform property, and was able to finish the animated navigation. I'm still conceptualizing a logo for the landing page. Thinking about using GIMP for creating the logo. 
 
+# Day 49: January 4, 2018
+Progress: Working on the popup page, learned how to use the hyphens property and column properties. Still need work on the functionality. 
+
