@@ -325,3 +325,8 @@ Progress: I was able to learn how to use a box-shadow generator today, learned t
 # Day 49: January 4, 2018
 Progress: Working on the popup page, learned how to use the hyphens property and column properties. Still need work on the functionality. 
 
+# Day 50: January 5, 2018
+Progress: Learned how to use the target pseudo class, applied the functionality of the popup window and currently studying how media querries work for Desktop first and Mobile first development.
+
+
+
