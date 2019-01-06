@@ -328,5 +328,10 @@ Progress: Working on the popup page, learned how to use the hyphens property and
 # Day 50: January 5, 2018
 Progress: Learned how to use the target pseudo class, applied the functionality of the popup window and currently studying how media querries work for Desktop first and Mobile first development.
 
+# Day 51: January 6, 2018
+
+Progress: Currently working on the media queries and setting the layout for responsiveness of the site. 
+
+
 
 
