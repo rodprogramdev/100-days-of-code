@@ -336,4 +336,6 @@ Progress: Currently working on the media queries and setting the layout for resp
 
 Progress: Still doing a lot of adjustments with the layout of the site using media queries, it's really both fascinating and frustrating to learn. 
 
+# Day 53: January 8, 2018
+Progress: Still working on media querries and color adjustments. Still experimenting with the different sizes and layout of the page sections.
 
