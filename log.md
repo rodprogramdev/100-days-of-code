@@ -339,3 +339,5 @@ Progress: Still doing a lot of adjustments with the layout of the site using med
 # Day 53: January 8, 2018
 Progress: Still working on media querries and color adjustments. Still experimenting with the different sizes and layout of the page sections.
 
+# Day 54: January 9, 2018
+Progress: Working on responsive images right now and still need a lot of tweak with the design for the media querries. 
