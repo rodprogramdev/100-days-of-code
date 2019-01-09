@@ -340,4 +340,4 @@ Progress: Still doing a lot of adjustments with the layout of the site using med
 Progress: Still working on media querries and color adjustments. Still experimenting with the different sizes and layout of the page sections.
 
 # Day 54: January 9, 2018
-Progress: Working on responsive images right now and still need a lot of tweak with the design for the media querries. 
+Progress: Working on responsive images right now, learned how to use the density descriptor and how to apply media queries in html. I still need a lot of tweak with the design of some parts of the sections of the pages. 
