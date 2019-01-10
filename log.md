@@ -341,3 +341,7 @@ Progress: Still working on media querries and color adjustments. Still experimen
 
 # Day 54: January 9, 2018
 Progress: Working on responsive images right now, learned how to use the density descriptor and how to apply media queries in html. I still need a lot of tweak with the design of some parts of the sections of the pages. 
+
+
+# Day 55: January 9, 2018
+Progress: Still working on responsive images, trying to look for a way to use resolution switching by creating different file versions of the images that I was able to get from unsplash.
