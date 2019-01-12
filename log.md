@@ -349,3 +349,6 @@ Progress: Still working on responsive images, trying to look for a way to use re
 # Day 56: January 11, 2018
 Progress: Today I've learned how to perform graceful degradation, I also started testing the site in different browsers. Still working on the image files to make it more compatible for different devices through media queries. I also learned how to use the feature queries.
 
+# Day 57: January 12, 2018
+Progress: Still working on responsive images, currently studied how to use the build process and other npm packages for concatenating css files and adding automatic prefixes. I also watch tutorials for using the particles-js file and currently studying the documentation. 
+
