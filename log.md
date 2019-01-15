@@ -355,3 +355,6 @@ Progress: Still working on responsive images, currently studied how to use the b
 # Day 58: January 13, 2018
 Progress: Today I just watched tutorial about flex-box and tried some of the different properties in codepen, I also read through some of the documentation of the github pages, still learning how to upload my work so that it can be viewed through github pages.
 
+# Day 58: January 15, 2018
+Progress: Today I studied how to use particlesjs and thinking of a way on how I could apply it in my project, also learned how to do custom css variables using the root psuedo class.
+
