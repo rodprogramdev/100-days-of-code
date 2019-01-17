@@ -313,48 +313,50 @@ Progress: Started with my footer section and still troubleshooting the issue wit
 Progress: Reviewed how to make an animated navigation bar, I was able to accomplish finishing the footer section of the page. 
 
 
-# Day 46: January 1, 2018
+# Day 46: January 1, 2019
 Progress: Still working on the navigation link, applying what I have learned from Jonathan Schemdts course.
 
-# Day 47: January 2, 2018
+# Day 47: January 2, 2019
 Progress: Reviewed how to use the checkbox hack, cubic bezier and the ease functions for the navigation section of the landing page that I'm working on. 
 
-# Day 48: January 3, 2018
+# Day 48: January 3, 2019
 Progress: I was able to learn how to use a box-shadow generator today, learned the transform property, and was able to finish the animated navigation. I'm still conceptualizing a logo for the landing page. Thinking about using GIMP for creating the logo. 
 
-# Day 49: January 4, 2018
+# Day 49: January 4, 2019
 Progress: Working on the popup page, learned how to use the hyphens property and column properties. Still need work on the functionality. 
 
-# Day 50: January 5, 2018
+# Day 50: January 5, 2019
 Progress: Learned how to use the target pseudo class, applied the functionality of the popup window and currently studying how media querries work for Desktop first and Mobile first development.
 
-# Day 51: January 6, 2018
+# Day 51: January 6, 2019
 
 Progress: Currently working on the media queries and setting the layout for responsiveness of the site. 
 
-# Day 52: January 7, 2018
+# Day 52: January 7, 2019
 
 Progress: Still doing a lot of adjustments with the layout of the site using media queries, it's really both fascinating and frustrating to learn. 
 
-# Day 53: January 8, 2018
+# Day 53: January 8, 2019
 Progress: Still working on media querries and color adjustments. Still experimenting with the different sizes and layout of the page sections.
 
-# Day 54: January 9, 2018
+# Day 54: January 9, 2019
 Progress: Working on responsive images right now, learned how to use the density descriptor and how to apply media queries in html. I still need a lot of tweak with the design of some parts of the sections of the pages. 
 
 
-# Day 55: January 10, 2018
+# Day 55: January 10, 2019
 Progress: Still working on responsive images, trying to look for a way to use resolution switching by creating different file versions of the images that I was able to get from unsplash.
 
-# Day 56: January 11, 2018
+# Day 56: January 11, 2019
 Progress: Today I've learned how to perform graceful degradation, I also started testing the site in different browsers. Still working on the image files to make it more compatible for different devices through media queries. I also learned how to use the feature queries.
 
-# Day 57: January 12, 2018
+# Day 57: January 12, 2019
 Progress: Still working on responsive images, currently studied how to use the build process and other npm packages for concatenating css files and adding automatic prefixes. I also watch tutorials for using the particles-js file and currently studying the documentation. 
 
-# Day 58: January 13, 2018
+# Day 58: January 13, 2019
 Progress: Today I just watched tutorial about flex-box and tried some of the different properties in codepen, I also read through some of the documentation of the github pages, still learning how to upload my work so that it can be viewed through github pages.
 
-# Day 59: January 15, 2018
+# Day 59: January 15, 2019
 Progress: Today I studied how to use particlesjs and thinking of a way on how I could apply it in my project, also learned how to do custom css variables using the root psuedo class.
 
+# Day 60: January 17, 2019
+Progress: I was finally able to find out how to incorporate the particlejs into my header section. I'm trying to play around with it a litte and readign through its documentation. 
