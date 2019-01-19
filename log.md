@@ -360,3 +360,6 @@ Progress: Today I studied how to use particlesjs and thinking of a way on how I 
 
 # Day 60: January 17, 2019
 Progress: I was finally able to find out how to incorporate the particlejs into my header section. I'm trying to play around with it a litte and readign through its documentation. 
+
+# Day 60: January 19, 2019
+Progress: Learned how to use and apply the flexbox in designing your layout without the need of positioning hacks and how to use svg icons vs icon-fonts hacks.  
