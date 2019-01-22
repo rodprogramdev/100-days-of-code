@@ -363,3 +363,6 @@ Progress: I was finally able to find out how to incorporate the particlejs into 
 
 # Day 61: January 19, 2019
 Progress: Finally diving into flexbox in designing layouts without the need of positioning hacks and learned the benefits of using svg icons vs icon-fonts hacks.  
+
+# Day 62: January 22, 2019
+Progress: Wasn't able to code for two days, very busy updating powerpoint presentations. Today I've applied the use of SVG-icons instead of icon-fonts. Still thinking of a better combination with green and blue for the feature-box section.
