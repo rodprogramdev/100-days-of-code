@@ -368,5 +368,5 @@ Progress: Finally diving into flexbox in designing layouts without the need of p
 Progress: Wasn't able to code for two days, very busy updating powerpoint presentations at work. Today I've applied the use of SVG-icons instead of icon-fonts. Still thinking of a better combination with green and blue for the feature-box section.
 
 # Day 63: January 27, 2019
-Progress: Wasn't able to code for 4days, not feeling well. Finally able to apply svg icons, and change some of the colors of the feature box section. Was able to use flex-box in the project still working on alignment. 
+Progress: Wasn't able to code for 4days, not feeling well allergic rhenitis been giving me headache. Finally able to apply svg icons, and change some of the colors of the feature box section. Was able to use flex-box in the project still working on alignment. 
 
