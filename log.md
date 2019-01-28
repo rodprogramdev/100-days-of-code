@@ -370,3 +370,5 @@ Progress: Wasn't able to code for two days, very busy updating powerpoint presen
 # Day 63: January 27, 2019
 Progress: Wasn't able to code for 4days, not feeling well allergic rhenitis been giving me headache. Finally able to apply svg icons, and change some of the colors of the feature box section. Was able to use flex-box in the project still working on alignment. 
 
+# Day 64: January 28, 2019
+Progress: Still working on familiarizing myself with the BEM and currently working on the alignment of the search-box, also used the property focus for some additional animation effect. 
