@@ -372,3 +372,7 @@ Progress: Wasn't able to code for 4days, not feeling well allergic rhenitis been
 
 # Day 64: January 28, 2019
 Progress: Still working on familiarizing myself with the BEM and currently working on the alignment of the search-box, also used the property focus for some additional animation effect. 
+
+# Day 65: February 2, 2019
+Progress: Today learned how to use the currentColor property and studied github pages again so that I can upload and view my project online. 
+
