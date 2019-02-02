@@ -374,5 +374,5 @@ Progress: Wasn't able to code for 4days, not feeling well allergic rhenitis been
 Progress: Still working on familiarizing myself with the BEM and currently working on the alignment of the search-box, also used the property focus for some additional animation effect. 
 
 # Day 65: February 2, 2019
-Progress: Today learned how to use the currentColor property and studied github pages again so that I can upload and view my project online. 
+Progress: Today learned how to use the currentColor property and studied how to enable github pages again so that I can upload and view my project online. Was able to view the pure html on the link now going to need to learn how to link the css files that I've created with sass.
 
