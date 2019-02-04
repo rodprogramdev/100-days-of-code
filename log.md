@@ -376,3 +376,5 @@ Progress: Still working on familiarizing myself with the BEM and currently worki
 # Day 65: February 2, 2019
 Progress: Today learned how to use the currentColor property and studied how to enable github pages again so that I can upload and view my project online. Was able to view the pure html on the link now going to need to learn how to link the css files that I've created with sass.
 
+# Day 66: February 4, 2019
+Progress: Did not do too much coding today, just read about github pages and where to download the git book. Still processing how to link css and sass files in github pages. Still also looking for some tweaks with the design of the page. 
