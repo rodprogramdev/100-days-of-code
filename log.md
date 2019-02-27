@@ -378,3 +378,12 @@ Progress: Today learned how to use the currentColor property and studied how to 
 
 # Day 66: February 4, 2019
 Progress: Did not do too much coding today, just read about github pages and where to download the git book. Still processing how to link css and sass files in github pages. Still also looking for some tweaks with the design of the page. 
+
+# Day 67: February 19, 2019
+
+Progress: Wasn't able to code for 17 days, was finally able to link css to html in github pages still trying to find a way to link the images and javascript. 
+Link to work:https://rodprogramdev.github.io/RogueX-Computer-Services/
+
+
+# Day 68: February 27, 2019
+Progress: Still working on uploading the image folder of my project, working on studying git through the command line. I learned some git commands for pushing repository from local host to github but haven't tried it yet.
