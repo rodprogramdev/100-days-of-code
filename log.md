@@ -389,4 +389,5 @@ Link to work:https://rodprogramdev.github.io/RogueX-Computer-Services/
 Progress: Still working on uploading the image folder of my project, working on studying git through the command line. I learned some git commands for pushing repository from local host to github but haven't tried it yet.
 
 # Day 69: March 25, 2019
-Progress: Its been too busy at my non-coding job, trying to learn how to push files through git and not just upload them in github pages,  was able to finally link the images and videos in my github page. 
+Progress: Its been too busy at my non-coding job, trying to learn how to push files through git and not just upload them in github pages,  was able to finally link the images and videos in my github page. Checking out on how I can make the particle js work in github pages.
+https://rodprogramdev.github.io/RogueX-Computer-Services/#
