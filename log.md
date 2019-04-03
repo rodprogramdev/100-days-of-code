@@ -395,3 +395,6 @@ https://rodprogramdev.github.io/RogueX-Computer-Services/#
 
 # Day 70: April 2, 2019
 Progress: Currently diving into studying angular, installed angular cli into my computer with a very slow connection. 
+
+# Day 71: April 3, 2019
+Progress: Studied Angular today, not that much coding just watch some videos still trying to figure our where is the error coming from the installation of the Angular Cli in my Json package. Learned about Angular components (Template, Class, Metadata). 
