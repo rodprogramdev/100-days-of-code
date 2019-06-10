@@ -400,4 +400,4 @@ Progress: Currently diving into studying angular, installed angular cli into my 
 Progress: Studied Angular today, not that much coding just watch some videos still trying to figure our where is the error coming from the installation of the Angular Cli in my Json package. Learned about Angular components (Template, Class, Metadata). 
 
 # Day 72: June 10, 2019
-Progress: Wasn't able to code due to my mother passing away because of cancer, was able to find why the particle js was not working when I uploaded it to github pages. I was finally able to find the glitch. 
+Progress: Wasn't able to code due to my mother passing away because of cancer, was able to find why the particle js was not working when I uploaded it to github pages. I was finally able to find the glitch. Link to work:  https://rodprogramdev.github.io/RogueX-Computer-Services/ …
