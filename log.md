@@ -401,3 +401,6 @@ Progress: Studied Angular today, not that much coding just watch some videos sti
 
 # Day 72: June 10, 2019
 Progress: Wasn't able to code due to my mother passing away because of cancer, was able to find why the particle js was not working when I uploaded it to github pages. I was finally able to find the glitch. Link to work:  https://rodprogramdev.github.io/RogueX-Computer-Services/ …
+
+# Day 73: June 11, 2019
+Progress: Trying to experiment with the popup option in my work and looking for a way to include a simple tennis javascript game into it with the use of the canvass element. Still a work in progress. 
