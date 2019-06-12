@@ -404,3 +404,6 @@ Progress: Wasn't able to code due to my mother passing away because of cancer, w
 
 # Day 73: June 11, 2019
 Progress: Trying to experiment with the popup option in my work and looking for a way to include a simple tennis javascript game into it with the use of the canvass element. Still a work in progress. 
+
+# Day 74: June 12, 2019
+Progress: Was able to make the ball work and bounce. Still working on finishing the short javascript game course in UDEMY and trying to include it in my project as a pop up option.
