@@ -407,3 +407,7 @@ Progress: Trying to experiment with the popup option in my work and looking for 
 
 # Day 74: June 12, 2019
 Progress: Was able to make the ball work and bounce. Still working on finishing the short javascript game course in UDEMY and trying to include it in my project as a pop up option.
+
+# Day 75: June 13, 2019
+Progress: Today I learned about how to make a circle using the Math.PI built in property. Still need to grasps the concepts of anonymous function and how arguments and parameters are defined.
+
