@@ -412,4 +412,4 @@ Progress: Was able to make the ball work and bounce. Still working on finishing 
 Progress: Today I learned about how to make a circle using the Math.PI built in property. Still need to grasps the concepts of anonymous function and how arguments and parameters are defined.
 
 # Day 76: June 14, 2019
-Progress: Continued lessons from UDEMY by Chris De Leon for learnig how to do a javascript game & Learned how to make the ball bounce by making a Yaxis line of code, also worked on labeled values. Still need to grasp on how to pass on values and understand fully the logic on how the game code was written. Developer tool really makes wonder for troubleshooting errors.
+Progress: Continued lessons from UDEMY by Chris De Leon for learnig how to do a javascript game & Learned how to make the ball bounce by making a Yaxis line of code, also worked on labeled values. Still need to grasp on how to pass on values and understand fully the logic on how the game code was written. Developer tool really makes wonder for troubleshooting errors. I was able to insert the game into the pop up. 
