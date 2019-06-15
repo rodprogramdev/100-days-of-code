@@ -413,3 +413,6 @@ Progress: Today I learned about how to make a circle using the Math.PI built in 
 
 # Day 76: June 14, 2019
 Progress: Continued lessons from UDEMY by Chris De Leon for learnig how to do a javascript game & Learned how to make the ball bounce by making a Yaxis line of code, also worked on labeled values. Still need to grasp on how to pass on values and understand fully the logic on how the game code was written. Developer tool really makes wonder for troubleshooting errors. I was able to insert the game into the pop up. 
+
+# Day 77: June 15, 2019
+Progress: Was able to center the canvass on the popup but still can't figure out why the paddle dissapears when I place the mouse on top of it. It should move up and down instead of dissapearing going to do more troubleshooting. 
