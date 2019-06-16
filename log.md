@@ -416,3 +416,6 @@ Progress: Continued lessons from UDEMY by Chris De Leon for learnig how to do a 
 
 # Day 77: June 15, 2019
 Progress: Was able to center the canvass on the popup but still can't figure out why the paddle dissapears when I place the mouse on top of it. It should move up and down instead of dissapearing going to do more troubleshooting. 
+
+# Day 78: June 16, 2019
+Progress: Continued learning from Chris DeLeons UDEMY tutorial on javascript game, tested out the code in codepen and the paddle is working, I was able to make it to creating the right paddle and make the ball reset work. Once its done going to try including it in the popup option in my project. 
