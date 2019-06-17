@@ -419,3 +419,7 @@ Progress: Was able to center the canvass on the popup but still can't figure out
 
 # Day 78: June 16, 2019
 Progress: Continued learning from Chris DeLeons UDEMY tutorial on javascript game, tested out the code in codepen and the paddle is working, I was able to make it to creating the right paddle and make the ball reset work. Once its done going to try including it in the popup option in my project. https://codepen.io/rodrigo-lopez/pen/RzrMaq?editors=1000
+
+# Day 79: June 17, 2019
+Progress: Worked on the ball control and artifial intelligence of the game, was able to put the score label for the two players. Still working on the ball control of the game.https://codepen.io/rodrigo-lopez/pen/RzrMaq?editors=1100
+
