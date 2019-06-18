@@ -423,3 +423,5 @@ Progress: Continued learning from Chris DeLeons UDEMY tutorial on javascript gam
 # Day 79: June 17, 2019
 Progress: Worked on the ball control and artifial intelligence of the game, was able to put the score label for the two players. Still working on the ball control of the game.https://codepen.io/rodrigo-lopez/pen/RzrMaq?editors=1100
 
+# Day 80: June 18, 2019
+Progress: Was able to finish the 2hr course for building javascript game by ChrisDeleon, able to create functions for knowing which player won and how to continue the game. Planning to continue with the other lessons and enroll a course about building other games. My codepen dashboard suddenly is not working.
