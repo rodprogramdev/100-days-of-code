@@ -425,3 +425,6 @@ Progress: Worked on the ball control and artifial intelligence of the game, was 
 
 # Day 80: June 18, 2019
 Progress: Was able to finish the 2hr course for building javascript game by ChrisDeleon, able to create functions for knowing which player won and how to continue the game. Planning to continue with the other lessons and enroll a course about building other games. My codepen dashboard suddenly is not working.
+
+# Day 81: June 20, 2019
+Progress: My Codepen dashboard suddenly won't load. I remade the project through notepad and uploaded it to github. Still working on how I can connect it to my other project popup window. 
