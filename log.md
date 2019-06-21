@@ -428,3 +428,6 @@ Progress: Was able to finish the 2hr course for building javascript game by Chri
 
 # Day 81: June 20, 2019
 Progress: My Codepen dashboard suddenly won't load. I remade the project through notepad and uploaded it to github. Still working on how I can connect it to my other project popup window. https://github.com/rodprogramdev/TennisGame/blob/master/index.html
+
+# Day 82: June 21, 2019
+Progress: Today I was able to review how to make github pages, encountered some issues but was able to debug it. Finished implementing the javaScript code for labelling to identify the Player that won and published the work in my Github pages. LINK TO WORK: https://rodprogramdev.github.io/Rods-Tennis-Game/
