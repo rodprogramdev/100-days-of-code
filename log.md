@@ -431,3 +431,6 @@ Progress: My Codepen dashboard suddenly won't load. I remade the project through
 
 # Day 82: June 21, 2019
 Progress: Today I was able to review how to make github pages, encountered some issues but was able to debug it. Finished implementing the javaScript code for labelling to identify the Player that won and published the work in my Github pages. LINK TO WORK: https://rodprogramdev.github.io/Rods-Tennis-Game/
+
+# Day 83: June 22, 2019
+Progress: Started my JavaScript course in UDEMy and reviewing the basic concepts of JavaScript. Still working on the responsiveness of the tennisGame project. 
