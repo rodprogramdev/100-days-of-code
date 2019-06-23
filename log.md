@@ -436,5 +436,5 @@ Progress: Today I was able to review how to make github pages, encountered some 
 Progress: Started my JavaScript course in UDEMy and reviewing the basic concepts of JavaScript. Still working on the responsiveness of the tennisGame project. 
 
 # Day 84: June 23, 2019
-Progress: Still reviewing the basics of JavaScript, reviewed concepts for variable mutation and type coercion.
+Progress: Still reviewing the basics of JavaScript concepts, reviewed concepts for variable mutation and type coercion, basic operators such as math operators, logic, and typeof operators.
 
