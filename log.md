@@ -438,3 +438,6 @@ Progress: Started my JavaScript course in UDEMy and reviewing the basic concepts
 # Day 84: June 23, 2019
 Progress: Still reviewing the basics of JavaScript concepts, reviewed concepts for variable mutation and type coercion, basic operators such as math operators, logic, and typeof operators.
 
+# Day 85: June 24, 2019
+Progress: Worked onlearning operator precedence. Learned about a good resource table in the lessons for operator precedence
+Learned the associativity explanation on how precedence of operators works. Worked on a coding challenge in my UDEMY course. 
