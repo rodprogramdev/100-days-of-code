@@ -441,3 +441,6 @@ Progress: Still reviewing the basics of JavaScript concepts, reviewed concepts f
 # Day 85: June 24, 2019
 Progress: Worked onlearning operator precedence. Learned about a good resource table in the lessons for operator precedence
 Learned the associativity explanation on how precedence of operators works. Worked on a coding challenge in my UDEMY course. 
+
+# Day 85: June 28, 2019
+Progress: not much coding this past few days due to busy sched, just reviewed concepts in javascript for boolean logic, how to use the ternary operator and switch operator. 
