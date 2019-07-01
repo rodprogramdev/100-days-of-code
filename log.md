@@ -444,3 +444,6 @@ Learned the associativity explanation on how precedence of operators works. Work
 
 # Day 85: June 28, 2019
 Progress: not much coding this past few days due to busy sched, just reviewed concepts in javascript for boolean logic, how to use the ternary operator and switch operator. 
+
+# Day 86: July 1, 2019
+Progress: It's been raining here non stop due to bad weather had to clean flood water twice now and was not able to code this past few days, currently working on solving coding challenge 2 in my UDEMY course for javaScript.
