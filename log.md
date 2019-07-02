@@ -449,5 +449,5 @@ Progress: not much coding this past few days due to busy sched, just reviewed co
 Progress: It's been raining here non stop due to bad weather had to clean flood water twice now and was not able to code this past few days, currently working on solving coding challenge 2 in my UDEMY course for javaScript.
 
 # Day 87: July 2, 2019
-Progress: Today i worked on reviewing the concepts on how to diffrentiate function expressions from statements, and how we can bundle variables with different data types using arrays. 
+Progress: Today i worked on reviewing the concepts on how to diffrentiate function expressions from statements, and how we can bundle variables with different data types using arrays. Was able to review concepts of array methods. 
 
