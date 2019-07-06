@@ -451,3 +451,5 @@ Progress: It's been raining here non stop due to bad weather had to clean flood 
 # Day 87: July 2, 2019
 Progress: Today i worked on reviewing the concepts on how to diffrentiate function expressions from statements, and how we can bundle variables with different data types using arrays. Was able to review concepts of array methods. 
 
+ # Day 88: July 6, 2019
+ Progress: Still working on coding challenge 3, still working on the logic on how to console log the result of a simple tip calculator and tryign to figure out how it would work.
