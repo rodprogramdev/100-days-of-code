@@ -453,3 +453,7 @@ Progress: Today i worked on reviewing the concepts on how to diffrentiate functi
 
  # Day 88: July 6, 2019
  Progress: Still working on coding challenge 3, still working on the logic on how to console log the result of a simple tip calculator and tryign to figure out how it would work.
+ 
+ # Day 89: July 7, 2019
+ Progress: Still working on the coding challenge #3 in my JavaScrit course, going to check out if this is the correct condition based from the challenge. Creating a function with 2 arrays that would showcase the % of tip given to bills for three diff.restaurants .
+ calculate the 
