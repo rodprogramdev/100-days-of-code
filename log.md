@@ -457,3 +457,8 @@ Progress: Today i worked on reviewing the concepts on how to diffrentiate functi
  # Day 89: July 7, 2019
  Progress: Still working on the coding challenge #3 in my JavaScrit course, going to check out if this is the correct condition based from the challenge. Creating a function with 2 arrays that would showcase the % of tip given to bills for three diff.restaurants .
  calculate the 
+ 
+ # Day 90: July 8, 2019
+ Progress: Still working on grasping the concept of invoking or calling functions, also reviewed object literals and how they work. studied this before and need to further delve deep into understanding how it is used and the improtance of the this keyword.
+ 
+ 
