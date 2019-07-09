@@ -461,4 +461,5 @@ Progress: Today i worked on reviewing the concepts on how to diffrentiate functi
  # Day 90: July 8, 2019
  Progress: Still working on grasping the concept of invoking or calling functions, also reviewed object literals and how they work. studied this before and need to further delve deep into understanding how it is used and the improtance of the this keyword.
  
- 
+ # Day 91: July 9, 2019
+Progress: Still feel like I need to improve on my logic, having a difficult time with understanding the concept of invocation of a function. Currently working on coding challenge#4 calculating Body Mass challenge.
