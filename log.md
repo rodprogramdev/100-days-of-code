@@ -463,3 +463,6 @@ Progress: Today i worked on reviewing the concepts on how to diffrentiate functi
  
  # Day 91: July 9, 2019
 Progress: Still feel like I need to improve on my logic, having a difficult time with understanding the concept of invocation of a function. Currently working on coding challenge#4 calculating Body Mass challenge.
+
+ # Day 92: July 10, 2019
+ Progress: Understood the process of invoking a method inside of an object literal, reviewed lessons on how to make use of a for and while loops and how to make use of the continue and break statement. Found out that we can actually skip the curly bracket for the code block if its just a single line of code we are working on. 
