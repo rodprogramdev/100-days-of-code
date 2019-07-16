@@ -466,3 +466,6 @@ Progress: Still feel like I need to improve on my logic, having a difficult time
 
  # Day 92: July 10, 2019
  Progress: Understood the process of invoking a method inside of an object literal, reviewed lessons on how to make use of a for and while loops and how to make use of the continue and break statement. Found out that we can actually skip the curly bracket for the code block if its just a single line of code we are working on. 
+ 
+  # Day 93: July 16, 2019
+  Progress: Still currently working on two versions of a tipping calculator while using objects and loops, trying to find out how to implement the use of arrays and methods in the process. 
