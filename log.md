@@ -469,3 +469,6 @@ Progress: Still feel like I need to improve on my logic, having a difficult time
  
   # Day 93: July 16, 2019
   Progress: Still currently working on two versions of a tipping calculator while using objects and loops, trying to find out how to implement the use of arrays and methods in the process. 
+  
+  # Day 94: July 17, 2019
+  Progress: Still working on the tipping calculator coding challenge and trying to accomplish making a responsive landing page while completing the user-stories in my freecodecamp challenges. Planning to also review how to use git in creating repositories in github.
