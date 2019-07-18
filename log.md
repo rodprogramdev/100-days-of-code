@@ -472,3 +472,6 @@ Progress: Still feel like I need to improve on my logic, having a difficult time
   
   # Day 94: July 17, 2019
   Progress: Still working on the tipping calculator coding challenge and trying to accomplish making a responsive landing page while completing the user-stories in my freecodecamp challenges. Planning to also review how to use git in creating repositories in github.
+
+# Day 95: July 18, 2019
+Progress: Trying to complete the user-stories in my FCC landing page semantics before proceeding to aesthetics. I also worked today on my javaScript course coding challenge #5. 
