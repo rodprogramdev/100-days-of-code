@@ -475,3 +475,7 @@ Progress: Still feel like I need to improve on my logic, having a difficult time
 
 # Day 95: July 18, 2019
 Progress: Trying to complete the user-stories in my FCC landing page semantics before proceeding to aesthetics. I also worked today on my javaScript course coding challenge #5. 
+
+# Day 96: July 19, 2019
+Progress: Today I reviewed the concept on how javascript code is executed in the javascript engine and how the execution context works.I also learned about the process of hoisting. Not that much coding just watched the course videos in Javascript then planning to go back to it afterwards to review how the concept works.
+
