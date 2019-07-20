@@ -479,3 +479,6 @@ Progress: Trying to complete the user-stories in my FCC landing page semantics b
 # Day 96: July 19, 2019
 Progress: Today I reviewed the concept on how javascript code is executed in the javascript engine and how the execution context works.I also learned about the process of hoisting. Not that much coding just watched the course videos in Javascript then planning to go back to it afterwards to review how the concept works.
 
+# Day 97: July 20, 2019
+Progress:Found an article about git in freecodecamp and reviewed how to use git and the process of pushing files using visual studio codes terminal. Now I know that you can actually use this to no longer store files locally and it will directly be updating your github repository while coding. 
+
