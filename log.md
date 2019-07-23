@@ -482,3 +482,7 @@ Progress: Today I reviewed the concept on how javascript code is executed in the
 # Day 97: July 20, 2019
 Progress:Found an article about git in freecodecamp and reviewed how to use git and the process of pushing files using visual studio codes terminal. Now I know that you can actually use this to no longer store files locally and it will directly be updating your github repository while coding. 
 
+# Day 98: July 23, 2019
+Progress: No coding for today had a lot of errands to do just learned how to make use of godaddy for hosting and researching how to transfer A Records of a domain name from one service provider to another. Currently working on a real estate website while still studying coding. 
+
+
