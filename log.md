@@ -485,5 +485,9 @@ Progress:Found an article about git in freecodecamp and reviewed how to use git 
 # Day 98: July 23, 2019
 Progress: No coding for today had a lot of errands to do just learned how to make use of godaddy for hosting and researching how to transfer A Records of a domain name from one service provider to another. Currently working on a real estate website while still studying coding. Currently working on a real estate website for a client. 
 
+# Day 99: July 31, 2019
+Progress: Been busy doing non-coding work, still working on completing the user stories of the Landing page in freecodecamp. Studying  SSL and TLS for security, Rest APIs, Jiri, and Redmine. 
+
+
 
 
