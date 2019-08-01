@@ -489,5 +489,5 @@ Progress: No coding for today had a lot of errands to do just learned how to mak
 Progress: Been busy doing non-coding work, still working on completing the user stories of the Landing page in freecodecamp. Studying  SSL and TLS for security, Rest APIs, Jiri, and Redmine. Will be continuing with the aesthetics.
 
 # Day 100: July 31, 2019
-Progress: Today 100th day but with a lot of delays in accomplishing it. I re-read the rules of the challenge and now going for a round2 of the 100daysofcode. I'm going to be working on a real estate project and will need to learn a lot more with details on how actual projects are made. Currently reviewing syntax of PHP codes. 
+Progress: Today is my 100th day but with a lot of delays in accomplishing it. I re-read the rules of the challenge and now going for a round2 of the 100daysofcode. I'm going to be working on a real estate project and will need to learn a lot more with details on how actual projects are made. Currently reviewing syntax of PHP codes. 
 
