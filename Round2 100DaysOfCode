@@ -12,3 +12,9 @@ Progress: Today I learned that Hostgator can be access through personal billing 
 I am also currently working on the FCC challenge and I can't seem to be able to make the Font-Awesome work and read about some CSS selectors
 Link:https://fontawesome.com/how-to-use/on-the-web/setup/getting-started
 https://techbrij.com/css-selector-adjacent-child-sibling.
+
+#Day 2: AUGUST 5, 2019
+Progress:I was able to fix the header position and fixed the navbar together with the header logo. I also placed the font-awesome 
+icon cdn on the head element and it finally worked. Having problems with with fixed header overlapping while scrolling. The btn seems to
+be not adapting the color i've set only except when hovered.
+
