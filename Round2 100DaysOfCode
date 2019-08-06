@@ -23,4 +23,5 @@ Progress:
 Already accomplish the user stories from the fcc challenge, now working on responsiveness and aesthetics and still 
 troubleshooting the concern with the header and found out that it was a mere issue of vw width, Also worked on the 
 btn color and I made a mistake with the css selector that was why the original color was not working when the mouse 
-was not hovering.Also worked on the Pricing section and footer section
+was not hovering.Also worked on the Pricing section and footer section. Still continuing with reverse engineering the landing page and
+trying to recreate the page. Still needs some work with media querries, property positioning and responsiveness.
