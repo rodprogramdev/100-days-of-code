@@ -25,3 +25,9 @@ troubleshooting the concern with the header and found out that it was a mere iss
 btn color and I made a mistake with the css selector that was why the original color was not working when the mouse 
 was not hovering.Also worked on the Pricing section and footer section. Still continuing with reverse engineering the landing page and
 trying to recreate the page. Still needs some work with media querries, property positioning and responsiveness.
+
+#Day 4: AUGUST 7, 2019
+Progress:
+Currently working on the media querries at max-width 650px of the header area, trying to find out how arrange the rows of the nav-bar. 
+There is also an issue with the logo not scrolling down. 
+https://codepen.io/rodrigo-lopez/full/QeMgxx
