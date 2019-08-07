@@ -31,3 +31,8 @@ Progress:
 Currently working on the media querries at max-width 650px of the header area, trying to find out how arrange the rows of the nav-bar. 
 There is also an issue with the logo not scrolling down. 
 https://codepen.io/rodrigo-lopez/full/QeMgxx
+
+#Day 5: AUGUST 8, 2019 
+Progress: Worked on the alignment of the section features,was able to fix and align the icons properly. I learned that you
+can use a different flex-direction for media querries to re-arrange the nav ul elements into a column. 
+Trying to find out how to arrange them into a center position when resized.
