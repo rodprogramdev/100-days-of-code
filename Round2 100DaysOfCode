@@ -40,7 +40,12 @@ https://codepen.io/rodrigo-lopez/full/QeMgxx
 
 #Day 6: AUGUST 9, 2019 
 Progress: 
-
+Currently worked on the footer section, was able to arrange the margin when resized and
+applied media queries at max-width 600px. Also fixed the boxes into a column once 
+resized. Trying to figure out how to place into the center the text inside of the cards.
+I'm thinking about adding some more media querries for different screen sizes besides
+max-width 800px and max-width 650px for more responsiveness option for different
+screen devices. 
 
 Link to works:
 Original Site: https://codepen.io/freeCodeCamp/full/RKRbwL (freecodecamp)
