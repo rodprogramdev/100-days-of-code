@@ -101,3 +101,9 @@ Progress: I've been playing around with animation of the technical documentation
 BEM model, hoping to understand how I could further apply it to my projects. Looking into one of my previous project and
 trying to find out how I can improve some of the glitches in the project. 
 https://codepen.io/rodrigo-lopez/pen/OKawWV?editors=1100
+
+#Day 13: AUGUST 16, 2019 
+Progress:
+Reviewed how to use bootstrap 4, found issues with extra white space, and found out that it's coming from the property top of my 
+nav class. I've been playing around with the navbar and experiencing a lot of trial and error, trying to 
+figure out how to fix it on the side for the user stories layout. watch REST APIs tutorials on youtube. 
