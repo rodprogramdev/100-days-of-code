@@ -140,3 +140,17 @@ my dependencies going to need to read more about them.
 Planning to recreate this from scratch so that I could
 remember and retain how I made it using SASS and use of the BEM 
 methodology of naming classes. 
+
+
+#Day 15: August 18, 2019
+Progress:
+Today I added some of the content of the JavaScript Technical
+Documentation project I'm working on.
+
+I did some tweaks with the old project card properties. Increased
+the perspective from 20rem to 40rem to make the transition flip
+of the card look more natural. Still need to think of a more suitable 
+color for the spiderman theme that I want to achieve. Comments would be 
+highly appreciated. 
+
+
