@@ -179,3 +179,149 @@ https://sites.google.com/a/enterprisehigh.org/webdev/core-standards
 http://www.webtechlearning.com/jobs/web-designing-course-syllabus/
 
 
+#Day 18: August 22, 2019
+Progress: 
+Worked on the technical docs and slowly moving forward and Reviewing the commands in git had problems with merging
+from another branch to the master branch. Practiced the basic commands so that I can use git more often in my future projects. 
+Also checked out github pages theme section. Watch Popsql and Mysql tutorials.installed mysql in my local computer.
+
+59:23 popsql
+
+PRIMARY Key
+Surrogate Key
+Natural Key
+Foreign Key
+	super_id (supervisor id)
+	manager_id
+Composite key - key needs two 
+attributes. 
+Supplier name doesn't uniquely
+identify to each row.
+The branch id doesn't uniquely
+identify to each row.
+
+They don't uniquely
+identify to each row only 
+together can they uniquely identify
+to each row.
+
+Only the combination of
+branch and supplier is the
+one that identifies a row.
+
+Composites id that 
+are foreign keys that makes 
+up a primary key
+which is a very useful way
+to define a relationship
+like how much  product has 
+been bought by a client from
+an employee.
+
+The more complex are or your 
+database schema.
+
+Being able to use 
+foreign keys in order to 
+define different
+relationships
+
+Querries
+set of instruction given to RDBMS
+
+SQL BASICS
+Language used for interacting
+with Relational Database
+Management.
+
+Its not technically a 
+programming language
+but it can be used to give
+instruction to RDBMS.
+
+
+RDBMS is a piece of software that 
+you can use to communicate with
+a relational database.
+
+You can use RDBMS to create
+a database for an application
+that you are building.
+
+RDBMS can help ensure that you
+store everything and structure it
+the way you want it to be stored.
+
+
+You will need to speak
+to RDBMS with a language and that 
+is not English. It does speak
+the language called sql.
+
+If we want to ask RDBMS to 
+do something for us like
+store a piece of information
+create a table retrieve, or 
+delete a content of the database.
+
+SQL is four
+different language
+SQL is a hybrid language
+
+Data Query language (DQL)
+Data Definition Language(DDL)
+Data Control Language(DCL)
+Data Manipulation Language(DML)
+
+SCRUM
+SQL
+
+Wath a version control is?
+
+Standard task 
+
+YOUR DAILY TASKS
+Create things
+Save things
+Edit things
+Save the thing again
+
+Version control helps you
+in the saving process
+to identify when you did it,
+why you did it and 
+what the contents of the
+change were open for review
+anytime in the future.
+
+You can describe
+what the contents of the 
+change were.
+
+Change of a color
+or adding a company logo.
+
+For a single individual
+It wont be difficult.
+
+Time and versions.
+Collaborative history tracking
+Keeping track who change
+it
+when they change it
+why they change it.
+
+This actions of you and the team working. 
+This is handled by a full pledge version system.
+
+It can be during the same time with your team.
+using the concept of merge.
+
+Git is a fst and moerd implementation of version control. Very lightwieght and extremely fast
+It provides you history of content changes. Can give you history of all the files 
+that compose a project. Graphics design, and even programming code.
+Git facilitates collaboragtive to files simulataneiously and then brigning them together for unified effect.
+
+Git is easy to use for any type of knowledge worker. Equally serves designers and not only programmers.
+
+https://dev.to/mattupham/how-to-get-your-first-software-engineering-job-focus-on-these-crucial-steps-4aom
