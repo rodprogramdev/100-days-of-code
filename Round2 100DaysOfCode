@@ -341,3 +341,18 @@ Today I also learned how to use triggers what are delimeters.
 Learned how to use joins and practiced using some SQL functions.
 Learned about the ER Diagram.
 Worked on the responsiveness of the technical documentation project.
+
+#Day 21: August 26, 2019
+Still tweaking some parts of the technical documentation. Found the
+reason why the main-doc is overlapping. Gave some <br> 
+in the code elements for spacing, and still working on how to assign
+list-style to section ul elements. Started with my Portfolio project.
+
+What is Unit testing?
+How to apply in our application?
+How can we implement unit testing?
+Continous integration
+
+https://www.youtube.com/watch?v=nJc3YFgujdU&fbclid=IwAR1jOOkUp0f88e_rcNR1_9LajngWPTCMm1Ykczh_9viO4lrTJy55u4f629A
+https://www.youtube.com/watch?v=SuS1gmsF6rI&fbclid=IwAR0sIcz4JrpNIKTbL1R7XvWnwQPYDdkBkKkxGsER-M09Up8908GaMOEAY2o
+
