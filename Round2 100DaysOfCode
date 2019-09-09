@@ -427,3 +427,10 @@ react native crash course of Traversy media, I've been an avid fan of his tutori
 on youtube. Currently working on adding an image on the welcome-section of my page.
 I'm looking for the reason why it's not occupying the white space. 
 https://codepen.io/rodrigo-lopez/pen/qBWroVJ
+
+#Day 31: September 9, 2019
+Found the issue yesterday, it was the top: property of my project section, had to
+turn it to 0px, it was the reason why the white space from the 
+html element was showing up. Currently working on responsiveness of the welcome-section.
+
+
