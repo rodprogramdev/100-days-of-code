@@ -433,4 +433,37 @@ Found the issue yesterday, it was the top: property of my project section, had t
 turn it to 0px, it was the reason why the white space from the 
 html element was showing up. Currently working on responsiveness of the welcome-section.
 
+#Day 32: September 11, 2019
+I'm not able to code today but I watched the ReactJS Crash Course of 
+Traversy media 2019 and it really proves how much I still need to learn and 
+understand especially when it comes to built in keywords in javascript and
+some frameworks and how I could easily identify what are those keywords that 
+are user-defined. This is where I sometimes get confused in tutorials 
+that I'm watching. I'm going to work on further improving may logical
+thinking, any tips would be highly appreciated. I understand learnign ReactJs
+can really help me improve my front-end development skills.
+
+Thoughts: 
+
+So many terms that I still need to understand.
+
+highorder array method.
+
+I learned that ReactJs is the framework or library that facebook uses.
+
+It is quite popular at present besides from angular
+
+#Day 33: September 15, 2019
+I wasn't able to post and code for three days been busy at work and I also
+lost my internet again. Still working on the portfolio project. Today I read about 
+an article about what http is and the different methods and I also created a repository
+for the finish typewriter effect that I want to apply in my portfolio project. I also
+made a github page for this sample typewritter effect I learned from 
+Traversy media. 
+
+https://rodprogramdev.github.io/typewritterEffect/
+
+https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/
+
+
 
