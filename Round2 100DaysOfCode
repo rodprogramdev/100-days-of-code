@@ -466,4 +466,28 @@ https://rodprogramdev.github.io/typewritterEffect/
 https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/
 
 #Day 34: September 15, 2019
+Worked on applying the typewritter effect into my FCC Personal Portfolio Project
+and currently having a problem with the height of the viewport user story 
+I was using min-height as property that caused me to fail the user story. 
+I removed some of the CSS loaders that I tested out for the project and instead
+I'm trying to apply the JavaScript typewriter effect with a constructor function, 
+prototype method. ES6 class.
+Also worked on the media querries of each sections.
 
+Today I worked on the Media querries:
+from min-width:1200px
+max-width: 800px
+max-width: 500px
+
+
+I learned that you can actually add some custom attributes in HTML5 as long as
+we use data- we can then access them within the javaScript.
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes 
+
+I also reviewed how to create the javascript typewriter effect 
+using a constructor function with a method called type. I reviewed how to 
+initialize that and how to convert it to ES6 class.
+
+Link to work: 
+https://codepen.io/rodrigo-lopez/pen/abojJQx
