@@ -491,3 +491,18 @@ initialize that and how to convert it to ES6 class.
 
 Link to work: 
 https://codepen.io/rodrigo-lopez/pen/abojJQx
+
+
+#Day 35 September 17, 2019
+I wasn't able to code yesterday, today I'm still working on improving
+the responsiveness of my portfolio project, currently working at the 
+welcome section, found some issues when media goes down to 200 when I
+tested checking it out on mobile. Still working on the breakpoints.
+
+issue with the grid-template-column
+Found out that I needed to change the minmax property in my grid to
+change its size and have the images in my cards center properly.
+
+Checked my work on phone and it seems like the cards are already centered. I'm using 
+an LG phone still going to work on the nav, welcome, and footer section for the 
+responsiveness of the site.
