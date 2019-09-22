@@ -530,3 +530,18 @@ Wondering why the escaping literal quotes not working. I was able to solve
 this issue. Still need to review BEM and practiced using it in each 
 of my projects.
 
+#Day 39 September 22, 2019
+Today I'm reviewing basics of mysql and re-installed it
+in one of my other computers. Still need to practice 
+using it and I want to find ways on how to 
+include it in my projects, 
+so that I would be able to retain information.
+I also 
+
+continued the freecodecamp challenge for the Madlib project.
+I understand that the function wordBlanks have parameters,
+I just don't know how to call it accordingly based from
+the challenge requirement. Testing out different syntax
+to check how it would work?  
+
+
