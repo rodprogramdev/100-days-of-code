@@ -552,3 +552,16 @@ Developer tools very useful to identify issues for editing.Still need to underst
 how this works using the selector.
 https://codepen.io/rodrigo-lopez/full/WNeLqJz (CSS Bubble Effect sample Project)
 
+#Day 41 September 24, 2019
+R2D41September24, 2019
+I learned that I can concatenate parameters of a function by using the variables inside of the function then assigning it to another
+variable to replace values of the variables using declared strings when you call on the functions. I would like to know if my explanation here is correct. 
+I would like to ask anyone who could make a better description on how this actually works. made this work the concatenation with different syntax
+really confused me, but interested to use google form and excel sheet in making an actual MADLIB project that can get data from different users going to work on that :) 
+ 
+I also worked on how to create a horizontal CSS bubble effect.
+https://codepen.io/rodrigo-lopez/pen/PoYVyqV?editors=1100
+Table top 
+Madlib project
+https://github.com/jsoma/tabletop
+
