@@ -591,3 +591,14 @@ give instructions on how to use the --list command,
 the --help command, and the --config command of git. 
 I also used the normal command line in Windows besides using
 the terminal for using git in visual studio code. 
+
+#Day45: October 3, 2019
+Today i've been researching on how to better 
+secure my projects, working on learning how to use 
+digital signatures and even PIV cards for user
+authentications. Wasn't able to code that much.
+
+#Day46: October 4, 2019
+Saw in the newsletters of FCC about TensorFlow for machine 
+learning. Finally found a way to answer this challenge.
+Moved on the lessons in JavaScript in FCC.
