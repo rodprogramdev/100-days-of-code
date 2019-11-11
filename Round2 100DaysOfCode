@@ -707,3 +707,12 @@ Binary Decimal to Binary
 Still working on the open source project with FCCmanila,
 tried clippath but not able to recreate the wave path smoothly.
 Checking out other options with SVG.
+
+#Day 60 Nov 11, 2019
+Today I worked on testing out how to build the design
+for the fccmanila header. Working on how to make the 
+svg for the wave clip-path effect and working on the position
+of the elements was having a problem in finding to place the image 
+on top of the header background. Just placed the div element outside
+of the header class and I was able to place the image on top, also worked
+on the button element. Will also need to work on responsiveness.
