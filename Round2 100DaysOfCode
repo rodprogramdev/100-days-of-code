@@ -716,3 +716,11 @@ of the elements was having a problem in finding to place the image
 on top of the header background. Just placed the div element outside
 of the header class and I was able to place the image on top, also worked
 on the button element. Will also need to work on responsiveness.
+
+#Day 61 Nov 13, 2019
+Today tried GIMP for making SVG, there was actually no supported format.
+Went to using INKSCAPE for the wave design.
+Still working on the size and still experimenting with how to use svg.
+Need to work on responsiveness when I get to learn how to apply the 
+proper position.
+
