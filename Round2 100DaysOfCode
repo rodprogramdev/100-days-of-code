@@ -755,3 +755,12 @@ node. It can help me create utilities,npm,and
 web servers. I was able to install node js and researched a little
 deeper about what it is all about. Also worked on some of the challenges in FCC
 Javascript section. Made a tutorial on how to install NodeJs
+
+#Day 65 Nov 19, 2019
+I wasnt able to install Python2 and Visual Studio Build
+tools, which are Native Modules for NODEJS also the Node-gyp.
+I'm not yet sure on how to use this so I'll be doing some 
+more reading about the documentation. Also worked on 
+making a repository for the fcc Project no responsiveness yet
+still working on the wave effect. 
+https://rodprogramdev.github.io/fccManilaCreateHero/
