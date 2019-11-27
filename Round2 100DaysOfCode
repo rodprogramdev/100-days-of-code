@@ -764,3 +764,19 @@ more reading about the documentation. Also worked on
 making a repository for the fcc Project no responsiveness yet
 still working on the wave effect. 
 https://rodprogramdev.github.io/fccManilaCreateHero/
+
+#Day 66 Nov 22, 2019
+Today i am reviewing my knowledge about PHP a server side language 
+and I'm planning to build a login page. Reviewed URL Parameters. 
+Also continued working on the FCC header page. Used flexbox to
+align the div elements and test in two different screen.
+
+#Day 67 Nov 23, 2019
+Just continued learning php, practice setting up the 
+environment variables for windows. Also worked on applying
+some animation in the fcc header project. No Media querries yet.
+
+#Day 68, Nov 25,2019
+Working on Mediaquerries on the FCCManila Project. Haven't planned yet
+for the whole architecture of the header. Going to work on using SCSS 
+and mixins. Still need to work on the breakpoints.
