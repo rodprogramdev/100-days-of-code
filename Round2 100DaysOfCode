@@ -780,3 +780,10 @@ some animation in the fcc header project. No Media querries yet.
 Working on Mediaquerries on the FCCManila Project. Haven't planned yet
 for the whole architecture of the header. Going to work on using SCSS 
 and mixins. Still need to work on the breakpoints.
+
+#Day 69, Nov 27, 2019
+Tried creating a new branch using git for the FCC project. 
+Not yet familiar with how collaboration with an open source project works.
+Was able to run Yarn and the localhost of the project. Also downloaded XAMPP
+to practice PHP today and MYSQL.
+Applied creating a LOGIN database in MYPHPadmin.
