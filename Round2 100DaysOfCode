@@ -787,3 +787,11 @@ Not yet familiar with how collaboration with an open source project works.
 Was able to run Yarn and the localhost of the project. Also downloaded XAMPP
 to practice PHP today and MYSQL.
 Applied creating a LOGIN database in MYPHPadmin.
+
+#Day 70 Nov 28, 2019
+Just created the Signup page for the PHP project I'm working on.
+Learned that i should apply the changes to the main index.html 
+on the FCC project and not just push the files that I made in a 
+separate folder. re-installed Yarn. Deleted the folder and 
+just cloned the repository. Getting the hang  of the workflow.
+Applying the design of the FCC project. 
