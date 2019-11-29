@@ -799,4 +799,5 @@ Applying the design of the FCC project.
 #Day 71, Nov 29, 2019
 Added media querries for tablet landscape, portrait, and phone in the FCC
 Project. Wondering  on whether I still need to perform another pull request after 
-updating the header repository from my vscode local repo.
+updating the header repository from my vscode local repo. Also continued with the 
+LoginProject with PHP.
