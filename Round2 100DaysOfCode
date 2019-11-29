@@ -795,3 +795,8 @@ on the FCC project and not just push the files that I made in a
 separate folder. re-installed Yarn. Deleted the folder and 
 just cloned the repository. Getting the hang  of the workflow.
 Applying the design of the FCC project. 
+
+#Day 71, Nov 29, 2019
+Added media querries for tablet landscape, portrait, and phone in the FCC
+Project. Wondering  on whether I still need to perform another pull request after 
+updating the header repository from my vscode local repo.
