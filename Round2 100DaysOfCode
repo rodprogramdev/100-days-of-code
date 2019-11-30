@@ -801,3 +801,9 @@ Added media querries for tablet landscape, portrait, and phone in the FCC
 Project. Wondering  on whether I still need to perform another pull request after 
 updating the header repository from my vscode local repo. Also continued with the 
 LoginProject with PHP.
+
+#Day 72, Nov 30, 2019
+Added error handlers. Had issues with the input type password 
+to hide the password when typing. Took me some time to find 
+what was going wrong. Was able to connect the form to the database 
+and it finally worked.I aLso read a little about SEO.
