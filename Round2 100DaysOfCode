@@ -807,3 +807,8 @@ Added error handlers. Had issues with the input type password
 to hide the password when typing. Took me some time to find 
 what was going wrong. Was able to connect the form to the database 
 and it finally worked.I aLso read a little about SEO.
+
+#Day 73, Dec 1, 2019
+Today I changed the class name of the FCC header to a section class 
+named hero and adjusted the names of the classes in the project. 
+Also read git about some contents on how to contribute in an open project to get familiarize more with how pull request works.
