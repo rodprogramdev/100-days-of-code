@@ -812,3 +812,11 @@ and it finally worked.I aLso read a little about SEO.
 Today I changed the class name of the FCC header to a section class 
 named hero and adjusted the names of the classes in the project. 
 Also read git about some contents on how to contribute in an open project to get familiarize more with how pull request works.
+
+
+#Day 74 Dec 5,2019
+Today I looked into the Yarn crash course from traversy media, I also read about REST API. Also looked into how javascript 
+is parsed. Reviewed how javascript can be hosted. V8 engine, Javascript engine, spidermonkey.
+From the Parser to Abstract Syntax Tree and how it gets converted to Machine code. 
+Execution stack, Global execution context. Also worked on a side project for a travel blog that I'll be making.
+
