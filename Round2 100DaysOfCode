@@ -820,3 +820,8 @@ is parsed. Reviewed how javascript can be hosted. V8 engine, Javascript engine, 
 From the Parser to Abstract Syntax Tree and how it gets converted to Machine code. 
 Execution stack, Global execution context. Also worked on a side project for a travel blog that I'll be making.
 
+#Day 75 Dec 8, 2019
+I'm reviewing the concept of BEM, watched a video about CSS preprocessor by Nicole Sullivan. Importance of process and using SASS. Analysing duplication, GREP, CSS Lint, CssCss
+Check CSS lint, its functionality is similar with html validation. Very cool to have discovered this to check out and analyze CSS. 
+http://getbem.com/
+https://www.youtube.com/watch?v=0NDyopLKE1w
