@@ -825,3 +825,6 @@ I'm reviewing the concept of BEM, watched a video about CSS preprocessor by Nico
 Check CSS lint, its functionality is similar with html validation. Very cool to have discovered this to check out and analyze CSS. 
 http://getbem.com/
 https://www.youtube.com/watch?v=0NDyopLKE1w
+
+#Day 76 Dec 9, 2019
+Working on using flexbox for the travel blog project I'm working on. For better use of media querries. It can really help your life very easy in terms of positioning items.
