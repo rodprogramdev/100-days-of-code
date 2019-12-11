@@ -828,3 +828,15 @@ https://www.youtube.com/watch?v=0NDyopLKE1w
 
 #Day 76 Dec 9, 2019
 Working on using flexbox for the travel blog project I'm working on. For better use of media querries. It can really help your life very easy in terms of positioning items.
+
+#Day 77 Dec 11, 2019
+Encountering issues when using VScode for the Angular CLI, execution_policy about scripts. It workds in the command line in Windows. It also seems like I cant open my windows powershell. Doing some research on how to resolve this issues. Its perfectly working and was able to run Angular on localhost:4200 but having issues with the terminal in VScode. Understood that you can specify a selector in three ways as a class, attribute, and as a customized html element.
+
+I was able to solve the issues with the execution policy for scripts.
+
+Run Powershell as administrator
+Get-ExecutionPolicy to check 
+Set-ExecutionPolicy to RemoteSigned
+and we are good.
+I also studied allowed interpolation in Angular 
+
