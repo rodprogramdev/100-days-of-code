@@ -840,3 +840,8 @@ Set-ExecutionPolicy to RemoteSigned
 and we are good.
 I also studied allowed interpolation in Angular 
 
+#Day 78 Dec 12, 2019
+Learning Angular js and familiarizing myself with binding.
+Also studied Structural directives in angular.
+Having a difficult time understanding services in Angular. Going read
+and find more documentation about how it works. Also studied routing and setup up the wildcard route.
