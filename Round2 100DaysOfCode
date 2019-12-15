@@ -850,3 +850,12 @@ and find more documentation about how it works. Also studied routing and setup u
 Still can't seem to decide with the color combination and design. Applied some parallax effect
 into the project and wanted to re-apply the wave effect but still can't decide with the color combination. 
 Also completed my basic Angular course in UDEMY.
+
+#Day 80 Dec 15, 2019
+Reviewed how hoisting works with variables and functions.
+Hoisting only works with function declarations and not function expressions.
+Working on the card section for the travel website. 
+Also worked on a hotel booking site. Trying to install npm but having issues with the configuration.
+Found the issue it was because my internet was down. I was able to isntall it as a dependency.
+
+Reviewing how SASS works and how to use its dependencies. Reviewed how to watch using the -w flag and how to automatically reload using an npm package.
