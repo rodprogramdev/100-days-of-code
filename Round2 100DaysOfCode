@@ -858,4 +858,10 @@ Working on the card section for the travel website.
 Also worked on a hotel booking site. Trying to install npm but having issues with the configuration.
 Found the issue it was because my internet was down. I was able to isntall it as a dependency.
 
-Reviewing how SASS works and how to use its dependencies. Reviewed how to watch using the -w flag and how to automatically reload using an npm package.
+Reviewing how SASS works and how to use its dependencies. Reviewed how to watch using the -w 
+flag and how to automatically reload using an npm package.
+
+#Day 81 Dec 18, 2019
+Studied scope chain, execution context, and the this keyword in javascript.
+Default object for the this keyword is the window object. Also working on inserting an automatic slideshow section in my travel blog website. 
+Found the answer to one of the questions in my mind about the dot notation.
