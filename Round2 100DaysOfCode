@@ -865,3 +865,8 @@ flag and how to automatically reload using an npm package.
 Studied scope chain, execution context, and the this keyword in javascript.
 Default object for the this keyword is the window object. Also working on inserting an automatic slideshow section in my travel blog website. 
 Found the answer to one of the questions in my mind about the dot notation.
+
+#Day 82, Dec 20, 2019
+Today I worked on improving the design of the travel blog, added a background video and changed 
+the style of the header, slider, and footer section.
+
