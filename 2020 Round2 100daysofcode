@@ -64,3 +64,9 @@ https://www.majesticsignstudio.com/blog/best-color-combinations-for-readability/
 https://www.color-hex.com/color/ffff00
 https://webaim.org/resources/contrastchecker/
 
+
+#Day 8 Feb 5, 2020
+Reviewed some of my lessons in javascript from Bob Tabor and remembered that I can use the www.//caniuse.com to check features of javascript which shows us about the description and current version on whether it is supported or not. Also checked out babeljs.io which use the combination of techniques that takes your code and see how it converts it to old versions.Added these to my resources. Been working on reviewing my knowledge in javascript. Always agreed with Bob about writing code that its fun and encouraging. 
+https://babeljs.io/
+https://caniuse.com/#info_about
+
