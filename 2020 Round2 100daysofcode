@@ -88,3 +88,10 @@ https://medium.com/better-programming/a-list-of-fun-projects-you-can-build-as-a-
 #100daysofcode #R2D11 Feb 8 2020
 Today I just continued with the FCC game coding course. Worked on creating a ball png 
 in Inkscape and was able to make the paddle work. 
+
+#Day 12 Feb 10 2020
+#100daysofcode #Round2 version 2 Day 12 Feb 10 2020
+Missed out coding yesterday, today continued with the javascript game but encountering some errors. 
+Was able to make the ball bounce around. Encountered the word refactor and working on understanding what it means. 
+Was working to solve and issue since this morning up tonight and finally found the error and issue with game.js 
+file from where I created the class and it was just simply not in the same directory. It really gave me a headache :) 
