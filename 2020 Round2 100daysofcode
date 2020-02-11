@@ -95,3 +95,7 @@ Missed out coding yesterday, today continued with the javascript game but encoun
 Was able to make the ball bounce around. Encountered the word refactor and working on understanding what it means. 
 Was working to solve and issue since this morning up tonight and finally found the error and issue with game.js 
 file from where I created the class and it was just simply not in the same directory. It really gave me a headache :) 
+
+#Day 13 Feb 11 2020
+Today just continued with the js game and was able to use the paddle to collide with the ball. 
+Also trying to make a brick png for the assets.
