@@ -99,3 +99,8 @@ file from where I created the class and it was just simply not in the same direc
 #Day 13 Feb 11 2020
 Today just continued with the js game and was able to use the paddle to collide with the ball. 
 Also trying to make a brick png for the assets.
+
+#Day 14 Feb 12, 2020
+Worked on a brick png still needs some improvement. I'm having some issues with the forEach declarations.
+Going to find out why it's not working. ALso learned how to maximize the use of the initial letter CSS trick.
+Also worked on creating customized radio buttons in the travel website that I'm working on.
