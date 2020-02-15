@@ -114,3 +114,7 @@ https://youtu.be/Y7Qd7uNr1ek
 #Day 16 Feb 14, 2020
 #R2D16 Feb 14, 2020 Today I was able to implement destroying the bricks when colliding with the ball.
  Worked with some gamestates Paused and Running options. I was able to make the game toggle from pause to running. 
+ 
+ #Day 17 Feb 15, 2020
+ #100daysofcode #R2Day17 Feb 15, 2020 Was able to make a pause screen, gameover screen, and working 
+ on leveling up. Having an issue with the gameover screen. Trying to find out the error.
