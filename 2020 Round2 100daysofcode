@@ -212,12 +212,35 @@ to use elementor, strikingly, godaddy hosting and purchasing domain names.
 Was able to implement and 
 make the Animation scroll work. Still going to add some animation in the navigation and the work on responsiveness 
 
-#Day 31  Mar 3 2020 
+#Day 31  Mar 5 2020 
 #100DaysOfCode
-#100daysOfCode #R2D31 Mar 3 2020 
+#100daysOfCode #R2D31 Mar 5 2020 
 Still working on the positioning of the elements and images, need to work on responsiveness. 
+Applied some simple animation for the buttons in the navigation area. Also worked on creating a grid layout configuration. Saw a job post with requirements of learning elastic search. Trying to do some reading about it and researching about what Timber is about. Reviewed how to create grid format using float and clearfix.
 
-#Day 32
+https://docs.google.com/forms/d/e/1FAIpQLSd2OlICtlqTzf-bvY--cedCcjIUg7PAE29TRb5gq601bRsUsw/viewform
+
+
+Used max-width which helps in specifiying the width that we specified if we have enough width but if the viewport is smaller it will simply fill 100% of the available space. 
+
+
+Margin: 0 auto is the trick to center block elements inside of annother block elements.
+This works when we say that we want the margin to render automatically, this means that the browser whgen rendering the page will automatically figure out rendering the margin on the left and the right side. Since its both set to auto, it means that left and right will be the same. 
+
+Since CSS will automatically calculate the left and right margin so that they will be the same so of course the element will be centered. 
+
+Learned about the calc() function and how it can be used to mix units inside of that functions.
+
+select start ^ 
+Select any class that ends $
+select all * that contains
+
+
+
+
+
+
+#Day 32 March 6, 2020
 #100DaysOfCode
 
 #Day 33
