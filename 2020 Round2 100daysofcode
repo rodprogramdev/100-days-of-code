@@ -288,18 +288,40 @@ https://fonts.google.com/?query=Bebas+Neu&selection.family=Bebas+Neue
 https://www.youtube.com/watch?v=M7sRyDa9ioc&list=PL85nsL7G6KsA2bEMrM2xtzJPo2ySAq_Wm
 
 
-#Day 35
-#100DaysOfCode #R2D35 March 2, 2020
+#Day 35 March 10, 2020
+#100DaysOfCode #R2D35 
 Wasn't able to code yesterday but was able to make a tutorial to review concepts about text-shadow.
 Working on how to make the footer images to have some hover 
 animations.  Really need to find a remote work as an alternative bec. of the ncov.
 
-#Day 36
+#Day 36 March 11, 2020
 #100DaysOfCode
 Still working on the footer section, trying to also find how to make the outline for the hover effect to become a little more smaller. 
 
-#Day 37
+#Day 37 March 12, 2020
 #100DaysOfCode
+Current looking into ASP.NET, learned that razor is a language that involves html and C# and .net. 
+DId the ASP.NET Core 101 tutorials today while working on adding some other sections in my flipbook project. 
+Downloaded dotnet-sdk. Learned about Model that involves a C# file. Json property w/c is an attribute that we 
+can stick on the top of our property and be able to use it to map. ALso encoutered the terms refactoring tools.
+Two strings methods reminder. Learned the cup of tea Nerd Humor.
+
+ToString > is already something that objects already have. We need to have it with a public override because objects already have it for free.
+
+We want to do our own version. NOw we want to convert a json representation of a product. 
+
+Serialize is taking all the object information and then converting it back to the text that will be part of the Json. Serial means to do something one after the other. 
+
+
+
+public override ToString() 
+{
+
+ 	JsonSerializer.Serialize<Product>(this)
+}
+
+
+Learned how to map the JsonPropertyName and mapped it to the the public string IMage.
 
 #Day 38
 #100DaysOfCode
