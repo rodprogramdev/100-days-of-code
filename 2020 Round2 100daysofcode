@@ -324,8 +324,25 @@ public override ToString()
 Learned how to map the JsonPropertyName and mapped it to the the public string IMage.
 
 #Day 38
-#100DaysOfCode
+#100DaysOfCode #Day 38
+Today reviewed how to make rounded images in html. Was able to understand better how the style attribute 
+inside of the img element works and how it overrides the styles in the stylesheet and 
+how the width and height attribute inside of the img element can be overriden by the styles in a stylesheet. 
 
+https://www.w3schools.com/html/html_images.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+https://www.w3schools.com/CSSref/css3_pr_border-radius.asp
+https://www.w3schools.com/howto/howto_css_rounded_images.asp
+
+https://github.com/
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-borders-around-your-elements
+file:///C:/Users/RogueX-pc6/Downloads/webdevIntrossamplever3/index.html
+file:///C:/Users/RogueX-pc6/Desktop/webDevIntro/index.html
+https://duckduckgo.com/?q=yellow+green+rgb&atb=v194-1&ia=answer
+https://css-tricks.com/multiple-class-id-selectors/
+#9ACD32
+https://www.sessions.edu/color-calculator/
+https://www.w3schools.com/csS/css3_shadows.asp
 #Day 39
 #100DaysOfCode
 
