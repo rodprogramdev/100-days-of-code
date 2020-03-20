@@ -382,7 +382,44 @@ Reviewing my Advanced CSS and SASS course from Jonas Schemdt Lesson . Trying to 
 C04-S02-L06
 
 #Day 43
-#100DaysOfCode
+#100DaysOfCode #Day 43 March 20, 2020
+Today I'm reviewing how Cascade works.Reviewed how the !important declaration and specificity works. 
+Understanding the cascading values. Changed all absolute px units to relative rem units.
+C04-SO3-L04 Cascade Importance> Specificity> Order
+
+C04-SO3-L05 Specificity In Practice
+
+C04-SO3-L06 HOw CSS Values are Processed
+
+C04-SO3-L07 - Inheritance
+
+C04-S03-L08 - Converting PX to REM
+
+C04-S03-L09 - How CSS Renders a WEBSITE: THe VISUAL FORMATING MODEL
+
+
+Comm Plan.
+
+Net Name - COVID Watch Net
+
+Pri Freq - 3.996Mhz LSB
+Sec Freq - 3.993Mhz LSB (down 3Khz)**
+Alt Freq - 3.990Mhz LSB (down 3Khz)**
+Start time - 0100Z Sat 21 Mar (20 Mar Fri 2000 CDT)
+
+All stations be prepared to relay. Any station able to relay must be in
+contact with NCS or Alt NCS. As 75m is more a regional band and the
+noise floor can be significant use of amplifiers is desired.
+
+**Net Control Station (NCS) moves to Sec Freq if Pri freq is
+occupied or splatter is occurring at the NCS location. In the event the
+Sec freq is occupied or is unworkable continue down to Alt frequency. If
+Sec freq is used start time will be 2005z and if conditions require the
+Alt freq use then start time will be 2010z. With the crowded nature of
+75m band don't forget, minor adjustments in operating freq may be
+required based on usage by other operators or nets.
+
+End of Comm Plan.
 
 
 #Day 44
