@@ -423,7 +423,108 @@ End of Comm Plan.
 
 
 #Day 44
-#100DaysOfCode
+#100DaysOfCode #R2D44 March 21 2020
+
+Today I created another tutorial in one of the project that I'm building. 
+Also checked an article about value pricing your work. Trying to find a remote work &
+found one job asking how much would a landing page usually cost. Trying to also refactor some of 
+my projects to use rem instead of px.
+
+BLOCK standalone component that is meaningful on its own.
+
+ELEMENT is a part of a block that has no standalone meaning. If we take out this elements inside of the block they wouldn't have any meaning or they won't be useful. Example recipe block then recipe__info which is mainly just for the recipe information.
+
+Take note that the recipe block still appears within all the class names within the block. 
+
+We can also see that we have very low specificity ledgers. We always use classes and they are never nested. This is why they have a very low specifity which is why BEM is widely used for easy to maintain code. 
+
+MODIFIER is a flag that we can put on a block or element in order to make it different from the regular blocks or elements or version. 
+
+For instance there maybe some rules for buttons and we used the modifier to make a more specific and different button and in our example a round one. 
+
+
+
+
+Naming approaches in naming classes. This are standalone components that can be used anywhere in the project
+
+
+
+SMAXX
+Object oriented Css
+BEM
+
+C04-S03-L10 Architecture and Design
+C04-S03-L11 Implementing BEM in the Natour Project
+https://sass-guidelin.es/
+https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55
+https://www.atomicdesign.tv/
+Components - one file for each components
+Layouts - define overall layout of the project
+Abstracts - put code that doesn't output any css such as mixins and variables
+Pages - styles for specific pages of the project
+Themes - implementing visual themes
+Vendors - third party css goes. 
+Base - put basic project definitions
+
+Give Background Color to a DIV Element
+Set the ID of an Element
+Use an ID Attribute to style an element
+Adjust the padding of an element
+Adjust the margin of an element
+
+https://itnext.io/a-guide-to-component-driven-development-cdd-1516f65d8b55
+
+
+
+
+https://studywebdevelopment.com/hourly-billing-vs-value-pricing.html
+
+https://github.com/rodprogramdev/100-days-of-code/blob/master/2020%20Round2%20100daysofcode
+
+https://www.freecodecamp.org/learn
+
+
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+
+
+<html>
+  <head></head>
+  <body>
+    <a href="#" id="btn" class="button" > TRY THIS CASCADE </a>
+ 
+    <p>
+      Inline styles has higher specificity over Id's > Id's has higher specificity over Classes > Classes has higher specifity over Element selectors.
+      
+    </p>
+  
+  </body>
+</html>
+
+
+body{
+  background-color:black;
+  color: white;
+}
+
+#btn {
+  color:pink;
+}
+
+.button{
+  color: red;
+}
+
+
+a{
+  color: blue !important;
+}
+
+
+#btn.button {
+  color: orange;
+}
+
 
 
 #Day 45
