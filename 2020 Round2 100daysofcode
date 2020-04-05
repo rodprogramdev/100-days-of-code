@@ -568,6 +568,204 @@ Reviewed how to make branches in git. Tried applying column grid in the project.
 #100DaysOfCode #R2Day51 April42020
 Working on the footer and cards with icons for today. Trying to review how to use icon-fonts. 
 
+#Day 52
+#100DaysOfCode #R2Day52 April52020
+Currently reviewing the absolute and relative positioning concept to better understand how it works. Learned that em can actually cascade. Rem means root em. I know that rem is very useful for responsive design grids especially if you want to change everything jsut using the root font-size.
+
+
+https://www.lifewire.com/absolute-vs-relative-3466208
+https://www.youtube.com/watch?v=ngt-qQKaTpA
+
+
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS Units example</title>
+  </head>
+  <body>
+   <div class="parent">
+     <div class="child"></div>
+    </div>
+  </body>
+   
+</html>
+
+  
+
+.parent{
+  background:blue;
+  height: 200px;
+  width:200px;
+}
+
+.child {
+  background: yellow;
+  height: 50%;
+  width:50%;
+}
+html{
+  font-size: 16px;
+}
+
+<div class="remparent">
+       <div class="remchild--1"><h2>4rem</h2></div>
+       <div class="remchild--2"><h2>4rem</h2></div>
+         <div class="remchild--3"><h2>4rem</h2></div>
+</div>
+
+<div class="remparent">
+     <div class="remchild--1"><p>Hi there!</p></div>
+     <div class="remchild--2"><p>I am REM!</p></div>
+     <div class="remchild--3"><p>We will SCALE!</p></div>
+</div>
+.remparent{
+  background:blue;
+  height: 200px;
+  width:200px;
+}
+.remchild--1 {
+  background: yellow;
+  font-size: 1rem;
+}
+
+Absolute lengths are self-regulating and they don't base their dimensions on anything else on the page. They don't base it on parent element or another font. They base it on real world measurements which are great for use in printing.
+Inches (in)
+Centimeters (cm)
+Millimeters (mm)
+point and picas
+Points (pt) -these are typographic terms in your document is the physical measurement. We are talking about physical dimensions of a printed example.
+Picas (pc) a point in picas is 12 pts
+Pixels is what we've been using and a lot are familiar with this absolute unit. Eventhough they are absolute units they are not based on the viewport width or another elements font-size. They are best thought as device pixels
+ because the size of the pixels can vary depending on the device. If you have a high density device such as a cellphone screen or a low density monitor. You will find the idea of pixels on all devices. You would see that other lengths map directly to pixels. You will notice that when you inspect an element they get rendered in pixel. Javascript is rendered in pixel. This is why it is the most commonly used css units.
+
+Relative lentghts gets their measurements from something else
+The parents dimensions(%)
+The currently Declared font-attribute(em,rem,ex,ch)
+The viewport dimension(vw,vh,vmin,vmax)
+Percentages(%)
+Font-sizes(em&rem)
+Viewport Dimension (vw&vh)
+Viewport Max(vmax)
+Viewport Min(vmin)
+
+
+<html lang="en">
+  
+  <head>
+    <meta charset="utf-8">
+    <title>CSS POSITIONING</title>
+  </head>
+  <body>
+    <h1>Musashi Miyamoto</h1>
+    <p>"Get beyond <span id="lf">LOVE and GRIEF</span> and exist for the good of men"</p>
+  </body>
+  
+  
+</html>
+
+
+#lf{
+  position: static;
+  background-color: lightblue;
+}
+
+when we position something statically it stays within the normal flow of the document.
+
+Even if we change the top property.  It will not move. It still stays within the normal flow of the document. Top, left, right, bottom properties will still stay the same way and don't do anything at all. 
+
+When we change the position property to relative.
+You would see that nothing happens. With relative positioning you can move the element but it moves from where it would naturally would flow within the normal flow of the document. The box stays from where it is.
+
+But if we set the properties you can see that the box drops 20px from the top of the normal flow.
+
+ABSOLUTE:
+Now you can see that the other words after the box moves over to the left and we can see that the box gets burried within. 
+Whats happening here is that when use the absolute property. It gets remove completely from the normal flow. 
+
+You can see that the rest of the document or the part which is in the normal flow assumes that it is not even there. You can see that the box gets completly remove from the normal flow.
+
+When we position it using top20px you would see that it positions itself from the top of the normal flow of the document.
+If we give it a top: 0px and left 0px; we can see that it is up in the left corner of our document. 
+
+IF we use relative we can see that its still exactly the same as if it is statically positioned. So for the relative positioning the rest of the document in that flow makes room for the element. While with absolute it completely gets remove from the flow and the room for it is remove as well and the rest of the flow adjust accordingly. 
+
+NORMAL FLOW - static positining default elements remian within the normal flow
+ABSOLUTE POSITIONING: Elements are removed from the normal flow and positioned from the topleft of current context and other elements adjust accordingly.
+RELATIVE POSITIONING- elements removed from the normal flow positioned from the would be normal flow position and other elements will maintain their position.
+
+
+
+<html lang="en">
+  
+  <head>
+    <meta charset="utf-8">
+    <title>CSS POSITIONING</title>
+  </head>
+  <body>
+    <section class="header">
+    <h1>HEADER SECTION</h1>
+    <p>"Get beyond <span id="lf">LOVE and GRIEF</span> and exist for the good of men" - Musashi Miyamoto</p>
+    </section>
+    <section class="scroll">
+      <h2>SECTION SCROLL</h2>
+    </section>
+  </body>
+   
+</html>
+
+/*#lf{
+  position: static;
+  background-color: pink;
+}*/
+
+/*#lf{
+  position: relative;
+  background-color: pink;
+  top:20px;
+}*/
+
+/*#lf{
+  position: absolute;
+  
+}*/
+
+
+/*#lf{
+  position: absolute;
+  top:20px;
+  background-color: pink; 
+  
+}*/
+
+/*#lf{
+  position: absolute;
+  top:0px;
+  left:0px;
+  background-color: pink; 
+  
+}*/
+
+/*#lf{
+  position: relative;
+  top:20px;
+  left: -80px;
+  background-color: pink; 
+}*/
+
+#lf{
+  heigth: 100vh;
+  position: fixed;
+  background-color: pink; 
+}
+  .scroll{
+    height:100vh;
+    background-color: lightblue;
+  }
+
+
+#Day 53
+#100DaysOfCode #R2Day53 
 
 
 
