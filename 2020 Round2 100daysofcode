@@ -871,3 +871,28 @@ https://threejs.org/
 
 Wireduconline
 https://stackshare.io/stackups/angularjs-vs-python
+
+
+
+#Day 64
+#100DaysOfCode #R2Day63 May 9 2020 
+Applied BEM in header-section and section-cards and trying to implement SCSS in the rental project that I'm working
+on. Reviewed how to make multiple lines of code into a mixin and call it using @include. Reviewed the DRY principle 
+don't repeat yourself. Also used arguments in @mixins.In a mixin the code is copied to the selector
+In an %extend the selector is the one copied to the code.
+
+Mixins reusable piece of code that we write into a mixin.
+Whenever we use that mixin, that code is put in a place, where we used or called that mixin. Its like a huge 
+variable that has multiple lines of codes. 
+
+Lets imagine that we wanted to use the clearfix not only in the navigation but in multiple places. It would
+be more practical to create a mixin in place of the clearfix code that we have which is composed of multiple lines. 
+
+We can pass in an argument in a mixin
+Extends allows us to place a placeholder and put a bunch of styles and have other selectors extend that placeholder.
+
+placeholder using the percentage sign. 
+In a mixin the code is copied to the selector
+In an extend the selector is the one copied to the code. We only use extend when the rules that we are extending are inherently and thematically inherent. 
+
+Lesson 23 advance CSS
