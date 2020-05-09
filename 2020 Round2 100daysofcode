@@ -893,6 +893,7 @@ Extends allows us to place a placeholder and put a bunch of styles and have othe
 
 placeholder using the percentage sign. 
 In a mixin the code is copied to the selector
-In an extend the selector is the one copied to the code. We only use extend when the rules that we are extending are inherently and thematically inherent. 
+In an extend the selector is the one copied to the code. We only use extend when the rules that we are extending are inherently and
+thematically inherent. 
 
 Lesson 23 advance CSS
