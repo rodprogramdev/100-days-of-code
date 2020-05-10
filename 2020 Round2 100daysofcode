@@ -875,7 +875,7 @@ https://stackshare.io/stackups/angularjs-vs-python
 
 
 #Day 64
-#100DaysOfCode #R2Day63 May 9 2020 
+#100DaysOfCode #R2Day64 May 9 2020 
 Applied BEM in header-section and section-cards and trying to implement SCSS in the rental project that I'm working
 on. Reviewed how to make multiple lines of code into a mixin and call it using @include. Reviewed the DRY principle 
 don't repeat yourself. Also used arguments in @mixins.In a mixin the code is copied to the selector
@@ -897,3 +897,38 @@ In an extend the selector is the one copied to the code. We only use extend when
 thematically inherent. 
 
 Lesson 23 advance CSS
+
+
+#Day 65
+#100DaysOfCode #R2Day65 May 10 2020 
+Able to review how to perform npm init to install package.json file.
+npm install node-sass and also install jquery. Also read about website legal requirements for privacy policies. 
+
+Able to review how to perform npm init to install package.json file.
+npm install node-sass and also install jquery. Also read about website legal requirements for privacy policies. 
+
+This will make sure that the package.json file is updated and list this package as one of  our developer dependencies. It means that node sass is a tool that we used to develp our project 
+
+npm install node-sass --save-dev
+
+We can now see that node sass is listed as a dev dependency
+
+we can also use jquerry
+
+npm install jquery - we don't need to put --save-dev because jquery is not a tool for development. Its a javascript file that we want to include in our project. 
+
+npm install jquery --save
+this will create a field for dependencies, this is what we need in our project. It helps with the functions. While in node sass its just a tool.
+
+npm uninstall jquery --save
+to uninstall
+
+we can delete the node_modules folder when we try to upload our files, because we already have our devDependencies in our package.json file. 
+
+Then we can just go and perform
+>npm install
+
+
+https://www.mountaingoatsoftware.com/agile/user-stories
+https://www.motocms.com/blog/en/website-legal-requirements/
+
