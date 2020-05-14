@@ -962,6 +962,25 @@ Installed SCSS for the project and currently working on each of the pages.
     "url": "git+https://github.com/rodprogramdev/RBSL-CS50-Project0.git"
   },
   
+  #Day 69
+#100DaysOfCode #R2Day69 May 14 2020 
+Learned about the concept of RACE CONDITIONS. Encountering some errors in git when I try to run git in 
+the repository I made for Project0. I'm trying to implement bootstrap in the navigation section of the Project 0. 
+trying to find out how to remove the background color of the container.
+
+https://getbootstrap.com/docs/4.0/utilities/colors/#background-color
+https://bootstrap.themes.guide/how-to-customize-bootstrap.html
+https://bootstrap.themes.guide/how-to-customize-bootstrap.html
+https://stackoverflow.com/questions/17179235/overriding-bootstrap-nav-background-color
+SQLAlchemy
+https://www.sqlalchemy.org/
+
+https://docs.python.org/3.8/library/csv.html#csv.reader
+
+
+https://en.wikipedia.org/wiki/Race_condition
+
+  
   
 
 
