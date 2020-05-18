@@ -993,3 +993,30 @@ https://en.wikipedia.org/wiki/Race_condition
   javascript currently at do while loop. Still working on Project 0 of #CS50. Trying to maximize my time while in quarantine. 
 
 
+
+
+#Day 72
+  #100DaysOfCode #R2Day72 May 18 2020 
+Also applied npm scss into my rbsrental project and practice writing the scripts to compile 
+sass from input file to the output file. Self argument in python, I'm wondering if its the same 
+with the this keyword in JS. Still watching some of the lessons first before actually coding it. 
+Also worked on RBSrental project and applied mediaquerries on the header-section.
+
+
+
+Object relational mapping. I also look into Flask SQLAlchemy. I have a project in mind that I
+want to implement and I'm going to use python for fulfilling this project. 
+
+
+Object Oriented Programming
+Class (Flight is an example)
+ 	We can define properties inside of the class.
+	Method - is more on behavior, we can also define methods in side of our classes.
+
+SQL Database lets us perform querries. This is a separate world from where we can 
+
+Object Relational Mapping can allow us to tie Python classes, methods, and object to interact with databases.
+
+FLASK SQLAlchemy.
+
+Object relational mapping
