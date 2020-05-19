@@ -1020,3 +1020,23 @@ Object Relational Mapping can allow us to tie Python classes, methods, and objec
 FLASK SQLAlchemy.
 
 Object relational mapping
+
+
+
+#Day 73
+  #100DaysOfCode #R2Day73 May 19 2020 
+Today I encountered the term Status code in my API lessons in @CS50. 
+Also checking out how to use python in the command line. Rate limiting. 
+I am also looking into recursion. Still a bit confused on how recursion works in the freecodecamp 
+challenge. Going to need to read some more about it. 
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+200 OK
+201 Created
+400 Bad Request
+403 Forbidden
+404 Not Found
+405 Method Not Allowed
+422 Unprocessable Entity
+
+
