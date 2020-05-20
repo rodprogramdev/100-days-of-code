@@ -1040,3 +1040,21 @@ https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 422 Unprocessable Entity
 
 
+
+#Day 74
+  #100DaysOfCode #R2Day74 May 20 2020 
+  
+  Watch a tutorial on how to incorporate Flasks in python and trying to implement 
+  it in Project0 for my #cs50 course. Learned how to create a virtual environment which is not global.
+  I'm wondering if this will effect my NPM node-sass if I try to install flasks in this project. 
+  Going to check out a crash course on flasks in FCC.
+
+
+To install a virtual environment py -m venv env
+
+
+https://www.youtube.com/watch?v=QjtW-wnXlUY
+
+Flasks Freecodecamp
+https://www.youtube.com/watch?v=Z1RJmh_OqeA
+
