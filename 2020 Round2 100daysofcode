@@ -1058,3 +1058,75 @@ https://www.youtube.com/watch?v=QjtW-wnXlUY
 Flasks Freecodecamp
 https://www.youtube.com/watch?v=Z1RJmh_OqeA
 
+
+#Day 75
+ #100DaysOfCode #R2Day75 May 212020 
+ Did a 1 hour flask tutorial in Freecodecamp. Learned a different 
+ method in installing flasks and a virtual environment. Was able to 
+ install flasks now wondering how to install flask-sqlalchemy. I'm wondering how flasks is similar to Yarn and PHP? 
+
+
+PRETTY Printed tutorial: https://www.youtube.com/watch?v=QjtW-wnXlUY
+
+#import flask we just need to type from flask import Flask with a capital F
+from flask import Flask
+
+
+>py -m venv env
+Create a file in the flask app directory
+This is the main app file. Set an environment variable in our command prompt.
+#we use the command set FLASK_APP(this has to be in all caps) equal to the name of the file that you've created. 
+>set FLASK_APP=app.py
+#This will allow flask to know what file to look for when we try to run it. 
+
+#the small case flask is the library and the uppercase Flask command is the class for Flask and 
+
+from flask import Flask
+
+#we want to instantiate that class. By convention we use the following command. This is referencing the name of the current module that you are working in. That is currenlty the app.py file that we just created. 
+>app = Flask(__name__)
+
+
+#This is the name of the route URL endpointfor a particular thing in the app. We can put anything that we want here ('/hello') ('/files') ('/profile'), whatever we want we can also leave it as a slash. 
+#we can then give this function a name, the name can be whatever we want. We can name it something that is descriptive. In this case this is the index which means that this is the base URL for whatever the site is. def index():
+>@app.route('/') # this is the decorator, once we go to slash / we can access the 		 # function that is going to run
+>  def index():  # this is a function
+>    return '<h1>Hell!</h1>':  # this is a return statement, this is returning directly 				#to the browser and since this is html the browser will 				#render it as html and it will show it to you. 
+
+
+
+#add a placeholder inside of the parentheses in our decorator. Any placeholder in the endpoint. We need to have in our function as a parameter. 
+
+
+@app.route('/name')
+def index(name):
+  return '<h1>HELLO {}!</h1>'.format(name) #We can then put that name parameter inside of 					   #our html.
+					   # We can use the curly brackets as place 					   #holders.
+
+
+# We can see that it will not run because of the endpoint no longer existing because we now have our placeholder. We need to pass in something inside of the URL so that flasks will read it for us
+> 127.0.0.1:5000/Rodrigo
+
+
+
+
+
+
+FREECODECAMP tutorial: https://www.youtube.com/watch?v=Z1RJmh_OqeA
+>pip3 install virtualenv
+
+
+#This is going to reference this file.
+app = Flask(__name__)
+
+#Learned how to create and index route so that when we browse to the url we don't #immediately encounter 404
+#we do this by using the @app.route decorator
+#The we past in the URL string of your route ('/')
+#then we can define the function for that route using def index():
+@app.route('/') 
+  def index():
+    return "Hello, World!"
+ 
+ 
+ 
+
