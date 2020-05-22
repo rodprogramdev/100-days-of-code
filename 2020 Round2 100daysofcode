@@ -1130,4 +1130,40 @@ app = Flask(__name__)
  
  #Day 76
  #100DaysOfCode #R2Day76 May222020 
+ Installed Lint in my visual studio code, I was able to run 
+ the layout.html in flasks, now I'm wondering if I can combine node-sass 
+ and flasks and on whether it will work on github pages? Will the app.py 
+ that I've created work in github pages? The templates folder should contain 
+ the html files, I'm wondering if i should also transfer the differnet folders 
+ like my css folders and image files in the same templates folder.
+
+Flasks DEBUG MODE will autoreload.
+
+WEBDEVSIMPLIFIED RECURSIVE FUNCTION EXPLANATION: 
+https://www.youtube.com/watch?v=6oDQaB2one8
+
+
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/<name>')
+def index(name):
+    return "<h1>HELLO {}!</h1>".format(name)
+
+@app.route('/<string:name>')
+def hello(name):
+    return f"Hi, {name}!"
+
+
+
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+@app.route("/")
+def layout():
+    return render_template("layout.html")
+
 
