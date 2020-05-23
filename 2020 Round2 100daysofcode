@@ -1167,3 +1167,9 @@ def layout():
     return render_template("layout.html")
 
 
+#Day 77
+ #100DaysOfCode #R2Day77 May232020 
+Trying to transfer some of my old files in one of my project to another computer. 
+Was able to finally find the necessary files to make it work. I'm going to apply some redesign to improve it.  
+
+
