@@ -1184,6 +1184,10 @@ Was able to finally find the necessary files to make it work. I'm going to apply
  I feel like  I m breaking the do not repeat yourself in the different pages. Need to think of how to restructure the pages. 
  
  
+#Day 80
+ #100DaysOfCode #R2Day80 May262020 
+ Worked on project0 @cs50 third html page, tried applying media querries and was looking for 
+ the reason why boostrap was not working. It was because I wasnt ablet o apply the scripts. 
  
  
  
