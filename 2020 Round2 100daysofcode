@@ -1245,7 +1245,18 @@ www.htmlcsscolor.com found this site that provides checking for color names.
  Also did some work on the footer section of my Rental Project Portfolio.
  
  #Day 90
- #100DaysOfCode #R2Day90 June142020 
+ #100DaysOfCode #R2Day90 June162020 
+ I tried working on a touch typing project and today I learned about how to 
+ create a boiler plate in VScode using an exclamation mark. Learned about the 
+ promise and await syntax in using an API. My first time using an API and learning how to apply it in JavasCript.
+
+
+http://api.quotable.io/random
+TouchTyping WebApp
+https://www.youtube.com/watch?v=R-7eQIHRszQ
+
+
+characterSpan.classList.add('correct')
  
  
  
