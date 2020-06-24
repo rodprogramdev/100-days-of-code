@@ -1257,6 +1257,11 @@ https://www.youtube.com/watch?v=R-7eQIHRszQ
 
 
 characterSpan.classList.add('correct')
+
+#Day 91
+ #100DaysOfCode #R2Day91 June242020 
+Today I'm trying to build a box-model layout using css in firefox. I 
+also learned that the margin property can actually collapse.Also played around with how to use an image map.
  
  
  
