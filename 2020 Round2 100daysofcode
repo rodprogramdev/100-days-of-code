@@ -1264,7 +1264,18 @@ Today I'm trying to build a box-model layout using css in firefox. I
 also learned that the margin property can actually collapse.Also played around with how to use an image map.
  
  
+#Day 91
+ #100DaysOfCode #R2Day92 July92020 
  
+ Had a bit of break from posting about coding, but been practicing my old lessons during my break. 
+ Today I checkout the material design.io for some design guidance and tried to understand further 
+ how box-shadow works. I also delve into the float property and wanted to further understand how the clearfix works.
+
+https://material.io/
+
+Part1
+https://www.youtube.com/watch?v=-JNRQ5HjNeI
+https://www.youtube.com/watch?v=Yon4l3MUBGY
  
  
 
