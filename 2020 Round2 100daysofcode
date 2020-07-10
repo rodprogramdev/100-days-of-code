@@ -1264,7 +1264,7 @@ Today I'm trying to build a box-model layout using css in firefox. I
 also learned that the margin property can actually collapse.Also played around with how to use an image map.
  
  
-#Day 91
+#Day 92
  #100DaysOfCode #R2Day92 July92020 
  
  Had a bit of break from posting about coding, but been practicing my old lessons during my break. 
@@ -1277,8 +1277,10 @@ Part1
 https://www.youtube.com/watch?v=-JNRQ5HjNeI
 https://www.youtube.com/watch?v=Yon4l3MUBGY
  
- 
-
+ #Day93
+#100DaysOfCode #R2Day93 July102020 
+ Today I was wondering on how the clearfix hack works. Delved into finding some explanations regarding how the hack works. 
+ Even though flexbox and grids are now options for layouting I just think it would be nice to know how this works.
  
 
  
