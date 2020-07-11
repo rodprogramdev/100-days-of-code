@@ -1282,5 +1282,7 @@ https://www.youtube.com/watch?v=Yon4l3MUBGY
  Today I was wondering on how the clearfix hack works. Delved into finding some explanations regarding how the hack works. 
  Even though flexbox and grids are now options for layouting I just think it would be nice to know how this works.
  
-
- 
+#Day94
+#100DaysOfCode #R2Day94 July112020 
+ Today Still worked with float and created an example layout using the float property. 
+ I think I've better understood how the float and clear property works after I reviewed it.
