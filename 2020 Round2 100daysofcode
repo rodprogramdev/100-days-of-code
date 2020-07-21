@@ -1310,4 +1310,9 @@ I read some articles about comparing UTF-8 and UNICODE.
 Learned that UNICODE is a character set and UTF-8 is an encoding. 
 Utf-8 is more of an algorithm used to translate numbers into binary data while UNICODE is a charset used to tranlate characters into numbers.
 
+#Day99
+#100DaysOfCode #R2Day99 July212020 
+Today I created a 47 minute video tutorial on how I built the 
+resume from microsoft word. Still researching how to make it printable.
+
 
