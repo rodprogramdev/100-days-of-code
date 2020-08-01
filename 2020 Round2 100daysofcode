@@ -1352,3 +1352,15 @@ Continued with my basic Resume web layout and practicing layout with tables and 
 #Day5
 #100DaysOfCode #R3 Day5 July31,2020
 Today I checked out scratch and familiarizing myself with the code blocks.Played around with how they work. Was able to create a bouncing ball.
+
+
+#Day 6
+#100DaysOfCode #R3 Day6 Aug1,2020
+I've encountered the term LazyLoading and currently working on studying it together with the intersectionObservers. 
+Thinking on whether I should change the typography of the Sample Resto website I'm making. 
+
+
+
+IntersectionObservershttps://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API/Timing_element_visibility
+
+https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading
