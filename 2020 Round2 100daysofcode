@@ -1364,3 +1364,11 @@ Thinking on whether I should change the typography of the Sample Resto website I
 IntersectionObservershttps://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API/Timing_element_visibility
 
 https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading
+
+
+#Day7
+#100DaysOfCode #R3 Day7 Aug2,2020
+Today I found out how to add a color picker using forms input type.
+Created a pop-up for the form. Still conceptualizing how it is going to work.
+Learned about the auto prefixing.
+
