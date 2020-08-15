@@ -1480,5 +1480,14 @@ Today I created a powerpoint presentation for understanding the scope triangle f
 I also found out that the best practice for css is to have all the properties arrange in alphabetical order. 
 Learned that there is a hinter in atom that gives this warning and suggestion. I'm wondering if this feature is available in Visual studio code.
 
+#Day17
+#100DaysOfCode #R3 Day17 Aug15,2020
+Encountered the term Progressive web Apps and teh phonegap statements about Adobe Phonegap's Cordova being discontinued. 
+I haven't touched this level yet but interested in doing more reading about it. 
+I read a comment that said that there is benefit in transferring to react native.
 
+Does proressive web Apps match the capabilities of hybrid app platforms like cordove
+
+
+https://blog.phonegap.com/
 
