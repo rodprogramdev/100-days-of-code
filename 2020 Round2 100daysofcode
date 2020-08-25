@@ -1497,3 +1497,27 @@ https://blog.phonegap.com/
 Lost my electricity due to typhoon and couldn't study for a few days. Just got power back on. read an article about 
 accessibility and worked on some of the other attributes of the anchor element https://axesslab.com/hand-tremors/
 
+
+#Day19
+#100DaysOfCode #R3 Day19 Aug25,2020
+How to setup online digital payment system. I want to find ways on how to include electronic payment using mastercard to my project. 
+
+Authorization proces
+Consumer
+Merchant Authorizer
+VisaNet
+Acquirer
+Issuer
+
+CLEARING PROCESS
+Acquirer 
+Visanet
+Issuer
+
+
+https://www.youtube.com/watch?v=s5HrEyEStYE
+
+
+How to accept payment on your website
+https://www.youtube.com/watch?v=oaJPMatYOus
+
