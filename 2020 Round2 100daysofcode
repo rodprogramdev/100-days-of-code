@@ -1570,3 +1570,9 @@ https://www.freecodecamp.org/news/good-habits-for-junior-developers/
 
 Learned about what Wireframe is about, also worked on linking my sign-in button to php. Need to make a simple test database 
 for now.Encountered a simple error but it was just the relative path to the directory that I changed.
+
+#Day25
+#100DaysOfCode #R3 Day25 Sept15,2020
+Working on a wordpress site for a volunteer group and figuring out how to embed their videos from fb for the site.
+
+https://developers.facebook.com/docs/plugins/embedded-video-player#configurator
