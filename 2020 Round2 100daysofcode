@@ -1576,3 +1576,12 @@ for now.Encountered a simple error but it was just the relative path to the dire
 Working on a wordpress site for a volunteer group and figuring out how to embed their videos from fb for the site.
 
 https://developers.facebook.com/docs/plugins/embedded-video-player#configurator
+
+
+#Day26
+#100DaysOfCode #R3 Day26 Sept18,2020
+Trying to understand better the use of the name attribute inside of the form input element. 
+Found some good discussion about how the input element name attribute and id attribute can be used. 
+https://www.w3schools.com/tags/att_input_type_checkbox.asp
+https://stackoverflow.com/questions/1397592/difference-between-id-and-name-attributes-in-html
+https://stackoverflow.com/questions/7470268/html-input-name-vs-id
