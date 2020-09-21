@@ -1601,3 +1601,22 @@ using media querries. Also reviewed the use of the POST and GET method in php.
 (https://www.edureka.co/blog/get-and-post-method/)
 
 
+#Day29
+#100DaysOfCode #R3 Day29 Sept21,2020
+Did research about the aria-label for visually impaired users. Also encountered an issue with 
+the php.validate.executablePath in visual studio code and found 2 ways to solve the issue. 
+One from visual studio code json settings and the other would be in the windows environment path variable.
+https://code.visualstudio.com/docs/languages/php
+
+
+https://www.youtube.com/watch?v=NljUtx9vCok
+Nosware
+https://www.youtube.com/watch?v=r8bGqi8J1Hs
+
+HeyTuts
+https://www.youtube.com/watch?v=NAvMN2tqBZM
+
+
+https://stackoverflow.com/questions/34182067/cannot-validate-the-php-file-the-php-program-was-not-found
+
+
