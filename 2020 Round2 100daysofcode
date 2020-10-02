@@ -1636,3 +1636,46 @@ https://www.w3schools.com/php/php_form_validation.asp
 #Day31
 #100DaysOfCode #R3 Day31 Sept30,2020
 Today still working on PHP and was able to study about the term TLD. Top Level Domain. Also checked out cloudfare for hosting. 
+
+#Day32
+#100DaysOfCode #R3 Day32 Oct2,2020
+Working on the Database for the signup form that I've made and read about collation. 
+https://database.guide/what-is-collation-in-databases/
+
+CREATE TABLE users (
+	user_id int(11) not null AUTO_INCREMENT PRIMARY KEY,
+	user_fname varchar(256) not null,
+	user_lname varchar(256) not null,
+	user_email varchar(256) not null,
+	user_userId varchar(256) not null,
+	user_pwd varchar(256) not null
+
+);
+
+
+int(11) number means that we can have 11 characters inside the user_id column. This means we can have 
+999999 up to 11 charactesr which is quite a lot of users inside of the website.
+
+not null just basically means that it cannot be set to null or nothing. It is not the same as having an empty field inside of a table. 
+It just means that the data cannot be null. 
+
+AUTO_INCREMENT each time a new piece of data is inserted inside the user table we are going to increase the integer by 1 automatically. 
+
+The first user once they sign up inside of the webiste is going to have a user id set to 1 then when another user sign up his user id will be 2 and so on.
+
+Its going to automatically increase the id.
+
+We need to set the user_id into the PRIMARY KEY
+This allows us to have a unique number that will be identifying the unique id for this table. 
+
+
+
+IN the next line will 
+varchar(256) this means that there will be at least 256 characters.
+
+user_id P
+
+
+
+
+
