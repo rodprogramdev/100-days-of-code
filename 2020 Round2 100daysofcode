@@ -1699,7 +1699,15 @@ LEarned about verbose output
 https://www.lifewire.com/definition-of-verbose-output-2198791
 
 
+#Day34
+#100DaysOfCode #R3 Day34 Oct4,2020
+Was able to successfully prevent users from typing in url to get into includes folder. 
+Researched about the mysqli_real_escape() parameters for ensuring that users will not be able to
+inject code into input elements. Also studied a little about some security concerns when it comes 
+to code execution and how to prevent them. 
 
+
+https://www.w3schools.com/Php/func_mysqli_real_escape_string.asp
 
 
 
