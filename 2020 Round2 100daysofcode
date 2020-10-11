@@ -1713,3 +1713,25 @@ https://www.w3schools.com/Php/func_mysqli_real_escape_string.asp
 
 
 
+#Day35
+#100DaysOfCode #R3 Day35 Oct11,2020
+
+Studied some php function such as preg_match, filter_var, FILTER_VALIDATE_EMAIL, password_hash(). 
+Applied error handlers for empty fields. Also learned about the prepared statements.
+
+Encountered an error in the code. Still doing some debugging. Still looking for good 
+resources for doing a validation in terms of confirming first, last, email, password, and confirm password signup form.
+
+
+
+https://www.php.net/manual/en/ref.pdo-mysql.php
+https://phppot.com/php/user-registration-in-php-with-login-form-with-mysql-and-code-download/
+
+https://www.youtube.com/watch?v=qjwc8ScTHnY
+
+
+
+https://stackoverflow.com/questions/27216595/how-to-validate-email-id-and-password-confirm-password-in-php
+https://stackoverflow.com/questions/13932750/tinytext-text-mediumtext-and-longtext-maximum-storage-sizes
+
+
