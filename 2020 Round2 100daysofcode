@@ -1735,3 +1735,13 @@ https://stackoverflow.com/questions/27216595/how-to-validate-email-id-and-passwo
 https://stackoverflow.com/questions/13932750/tinytext-text-mediumtext-and-longtext-maximum-storage-sizes
 
 
+
+
+#Day36
+#100DaysOfCode #R3 Day36 Oct12,2020
+Was finally able to connect to database and was able to solve the issue with the form not being responsive. 
+Still working on error handlers. Also validated form for compatibility for different browsers. Also reviewed 
+bootstrap.
+
+https://stackoverflow.com/questions/38569235/the-for-attribute-of-the-label-element-must-refer-to-a-non-hidden-form-control
+https://stackoverflow.com/questions/2800363/why-does-this-page-look-different-between-ie-firefox-chrome#2800406
