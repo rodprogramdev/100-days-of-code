@@ -1745,3 +1745,10 @@ bootstrap.
 
 https://stackoverflow.com/questions/38569235/the-for-attribute-of-the-label-element-must-refer-to-a-non-hidden-form-control
 https://stackoverflow.com/questions/2800363/why-does-this-page-look-different-between-ie-firefox-chrome#2800406
+
+
+
+#Day37
+#100DaysOfCode #R3 Day37 Oct13,2020
+Testing why the layout in Chrome is breaking when its completely responsive in Firefox.
+Found the issue just still need to do some further adjustments.
