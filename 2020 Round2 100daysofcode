@@ -1764,3 +1764,9 @@ Trying to think of good color combinations.
 #Day39
 #100DaysOfCode #R3 Day39 Oct15,2020
 Worked on responsiveness and played a little with JavaScript and some CSS animation for my simple Portfolio site.
+
+#Day40
+#100DaysOfCode #R3 Day40 Oct16,2020
+Found the issue with bootstrap having horizontal scroll I should have nested the row class into the c
+ontainer div. Trying to add some additional content and was able to figure out how to change img 
+when in mobile. Also learned the there is a term for master in git and an additional ine of code git -M main.
