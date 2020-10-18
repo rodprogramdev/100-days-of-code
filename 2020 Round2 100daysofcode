@@ -1776,3 +1776,11 @@ when in mobile. Also learned the there is a term for master in git and an additi
 Added some additional links to projects I've made before. Need to work on some back jobs for responsiveness for some of the projects. 
 Also was able to test out on mobile using LG g5 and was able to solve the vh issue for the portfolio section.
 
+#Day42
+#100DaysOfCode #R3 Day42 Oct18 2020
+Working on tablet media querry for the portfolio site and reviewing how to use container-fluid in bootstrap. 
+Also worked on creating a new repository for an updated version of an old project. Working on a media query manager. 
+Read about the purpose of some keywords still looking for [class *= ""]value in the media querry example.
+https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
+
+
