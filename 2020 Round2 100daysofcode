@@ -1803,3 +1803,18 @@ Was able to accomplish applying some jquery effect in the scrolling. Also worked
 Working on creating cards for the services section. Was also able to implement some hover css border effect. 
 Added Parallax and currently working on flipbook effect. Going to try and implement some other features slowly in the project. 
 Still working on personalizing some of the assets that I would want to use in this project.
+
+#Day46
+#100DaysOfCode #R3 Day46 Oct23 2020
+#100daysofcode R3-Day 46 October 23 2020- Today I studied  a bit of react js. I was encountering an issue with the 
+flipbook media query not working when resizing the browser. I had to refresh it. 
+Was able to find a way on how to auto refresh the browser for the media query to work. Also did some redesign with the cards. 
+
+#Day47
+#100DaysOfCode #R3 Day47 Oct24 2020
+Reviewed how to install node-sass, applied some animation to headings, and worked on implementing particles. 
+Encountered issues with particles and it was a mere missing "s" 
+that was the problem. Going to try and refactor the css code so that I can use scss and organize its components.
+
+
+
