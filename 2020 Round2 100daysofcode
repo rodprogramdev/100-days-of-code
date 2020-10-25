@@ -1817,4 +1817,10 @@ Encountered issues with particles and it was a mere missing "s"
 that was the problem. Going to try and refactor the css code so that I can use scss and organize its components.
 
 
+#Day48
+#100DaysOfCode #R3 Day48 Oct25 2020
 
+I was encountering an issue XAMPP localhost not working when I try to update files in my htdocs directory. Found a solution by 
+using shortcut keys ctrl+shift+R. Also studied a bit of react. Was able to create a personalize HTML5 Icon. Had some issues 
+with the text button in INKSCAPE but was able to 
+understand why it was not showing in the SVG file that I've created. I should drag and create a box when creating using the text tool. 
