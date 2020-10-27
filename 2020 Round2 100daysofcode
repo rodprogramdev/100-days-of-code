@@ -1829,3 +1829,14 @@ understand why it was not showing in the SVG file that I've created. I should dr
 #100DaysOfCode #R3 Day49 Oct26, 2020
 Continued studying and practicing bootstrap, also worked on personalizing some of the icons for the portfolio site that I'm building.
 
+
+#Day50
+#100DaysOfCode #R3 Day50 Oct27, 2020
+Browsing through my #100daysofcode tweets and found some things that I should review and try to practice 
+like how to use the nth-of-type()selector. I already forgot how to use these. 
+
+
+Today I discovered that there is haml and I was able to implement typewriter effect in the heading section. 
+Changed background-image and used linear gradient.
+What do you do when you forget somethings that you've learned before? 
+I reviewed my tweets and my github page in my 100daysofcode repository to check things that I've learned before.
