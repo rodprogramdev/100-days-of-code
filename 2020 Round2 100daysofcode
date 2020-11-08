@@ -1884,3 +1884,7 @@ Thinking of adjusting the widht and height.
 Got a client today and worked on redesigning her site and worked on improving the landing page. Gave her some advice about the 3sec rules for landing pages. 
 She has a Wordpress site but I coded the mock up site in html and css so that I will have  a bit more control with the layout. 
 Was able to finish the initial 3 sections layout of the landing pages and added some animation as a feature.
+
+#Day58
+#100DaysOfCode #R3 Day58 Nov8, 2020
+Took me some time to figure out how to implement media querries in the bootstrap layout that has two columns today.
