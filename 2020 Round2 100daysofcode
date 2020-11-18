@@ -1890,10 +1890,14 @@ Was able to finish the initial 3 sections layout of the landing pages and added 
 Took me some time to figure out how to implement media querries in the bootstrap layout that has two columns today. Also applied carousel in the Photo gallery section of the swimming school site.
 
 #Day59
-#100DaysOfCode #R3 Day58 Nov8, 2020
+#100DaysOfCode #R3 Day59 Nov17, 2020
 Today I've learned about symbolic links, working on further understanding how to set it up while using git. Also look into git credential manager. 
 
 https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/
 https://github.com/rodprogramdev/Git-Credential-Manager-Core
 https://github.com/git-for-windows/git/wiki/Symbolic-Links
 
+#Day60
+#100DaysOfCode #R3 Day60 Nov18, 2020
+Today just did an exercise in building a three section about me template site using HTML and CSS. Also read some articles 
+about how to optimize images for the web. 
