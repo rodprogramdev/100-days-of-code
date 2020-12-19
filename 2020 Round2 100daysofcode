@@ -1944,4 +1944,4 @@ and get better in using it.
 
 #Day68
 #100DaysOfCode #R3 Day68 Dec 19, 2020
-Still working on the media query and trying to do code refactoring and arrange the mark up. 
+Still working on the media query and trying to do code refactoring and arrange the mark up. Took me an hour to find a missing semi-colon in my css.
