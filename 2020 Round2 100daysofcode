@@ -1952,3 +1952,8 @@ Still working on the media query and trying to do code refactoring and arrange t
 #100DaysOfCode #R3 Day69 Dec 27, 2020
 Dis some redesign for the game assets in the space shooter game in SCRATCH that I'm playing around with. 
 Reviewed Cartesian coordinates. Love the prettier extension in vscode , it makes code refactoring a lot easier with css. 
+
+
+#Day70
+#100DaysOfCode #R3 Day70 Dec 28, 2020
+Today I was able to implement a forward and backward feature for the spacecraft and change the spacecraft as if it got wrecked once hit by an asteroid.
