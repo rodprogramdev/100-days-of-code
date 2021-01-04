@@ -1975,5 +1975,15 @@ Created some character asset in inkscape. Also working on abstraction. Trying to
 set the level after reaching a certain score and working on creating some additional asteroids.
 
 
+#Day74
+#100DaysOfCode #R3 Day74 Jan4, 2021
+#100DaysofGameDev #R1 Day4
+Was able to implement script for changing of level based from reaching a specific condition for the score variable
+and changing the type of asteroid based from the same condition. Also studied python for today and reviewed 
+lessons about C programming. 
+
+Truncation
+Abstraction
+
 
 
