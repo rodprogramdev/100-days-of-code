@@ -2034,6 +2034,19 @@ Still trying to figure out what code block I can use for making the boss charcte
 then fire bullets, then go to next level once reached a certain condition. 
 
 
+#Day82
+#100DaysOfCode #R3 Day82 Jan14, 2021
+#100DaysofGameDev #R1 Day11
+Worked on the flow of the code for killing the boss for now. Was able to also 
+go and try to make the minion dissapear once on the edge of the screen. Also been reading about the threat modelling tool of Microsoft for developers. 
+
+https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started
+
+https://www.canva.com/design/DAETMFwrpmA/i84VxWN57p26UeGqEAcUEA/view?utm_content=DAETMFwrpmA&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+
+https://www.canva.com/design/DAETMFwrpmA/i84VxWN57p26UeGqEAcUEA/view?utm_content=DAETMFwrpmA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
 
 
 
