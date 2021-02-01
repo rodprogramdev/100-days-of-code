@@ -2068,10 +2068,11 @@ I'm thinking about creating a project website that will have some basic javascri
 
 
 
-
-
-
-
+#Day86
+#100DaysOfCode #R3 Day86 Feb1, 2021
+Today I looked into some devOps and still trying to familiarize myself on how to setup openssh server in Ubuntu. Also worked on Heroku for a
+learning JS project. Looking for learning buddies in building the learningJSchallenges project that I'm working on.
+Tested how to connect github to heroku too. Encountered error in buildpacks.
 
 
 
