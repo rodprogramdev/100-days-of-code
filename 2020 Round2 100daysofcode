@@ -2083,3 +2083,46 @@ Also worked on this JS project and looking for people
 who would be interested to collaborate with me for building the site. https://rodprogramdev.github.io/LearnJSchallenges/
 
 
+
+#Day88
+#100DaysOfCode #R3 Day88 Feb4, 2021
+Created my first react-app daily to-do tracker. Followed tutorial of Sir Brad Traversy. Learned how to open multiple terminals in vscode. 
+Installed react-icons. Still plenty of things to learn. 
+
+single page application (spa)
+
+npm run build
+npm i -g serve
+serve -s build -p 8000
+npm -i react-icons.
+
+
+React/Frontend/Library/Framework - makes for fast and interactive framework.
+Its called as framework. React router dom. Makes things more faster. 
+Its big in the industry. 
+Work with project with teams.
+One way data binding.
+
+JSX (Javascript Syntax Extension)
+Jason Server (Fake Back End)
+UI components
+Classes and functions
+
+Data types,
+Promises & asynchronous programming
+Array methods like forEach() & map()
+Fetch API & making HTTP requests.
+
+React allows us to use reusable components.
+
+Uses document object model.
+
+Model
+View - React
+Controller
+
+Library Jquery, Loadash, 
+
+React works more like angular and vue. 
+
+
