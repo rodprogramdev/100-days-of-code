@@ -2126,3 +2126,20 @@ Library Jquery, Loadash,
 React works more like angular and vue. 
 
 
+#Day89
+#100DaysOfCode #R3 Day89 Feb6, 2021
+I worked on updating my portfolio site and trying to figure out if I can delete node_modules in create-react-app to push to github repository. 
+Studying how I can deploy a react app into github pages. 
+
+Reviewed commands:
+npm install --node-sass --save-dev
+npm install gh- --save-dev
+
+sourcetree
+
+npm install gh- --save-dev > saves the folder as a dev dependency. 
+"homepage": "http://rodprogramdev.github.io/react-app",
+
+Script
+"predeploy": "npm run build".
+"deply": "gh-pages -d build",
