@@ -2143,3 +2143,9 @@ npm install gh- --save-dev > saves the folder as a dev dependency.
 Script
 "predeploy": "npm run build".
 "deply": "gh-pages -d build",
+
+
+
+#Day90
+#100DaysOfCode #R3 Day90 Feb8, 2021
+Was able to learn how to use the array slice() method and toUpperCase() method in trying to select the first part of the word and then make it capitalized. 
