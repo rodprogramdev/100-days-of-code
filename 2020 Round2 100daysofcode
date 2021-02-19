@@ -2191,3 +2191,7 @@ Was able to create an initial layout for a charity group website. Was able to cr
 shopify themes. 
 
 
+#Day95
+#100DaysOfCode #R3 Day95 Feb19, 2021
+Did some Django today with python. Trying to figure out how to install it in my Kali Linux machine. Was able to found out accidentally 
+that you can use cd command + double tab keyboardKey + letterOfDirectory displays stdout on terminal
