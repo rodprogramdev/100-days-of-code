@@ -2195,3 +2195,10 @@ shopify themes.
 #100DaysOfCode #R3 Day95 Feb19, 2021
 Did some Django today with python. Trying to figure out how to install it in my Kali Linux machine. Was able to found out accidentally 
 that you can use cd command + double tab keyboardKey + letterOfDirectory displays stdout on terminal
+
+
+#Day96
+#100DaysOfCode #R3 Day96 Feb21, 2021
+Today I just worked on some python. Reviewed working with pycharm. Also researched about the file extension .pyc and 
+what the venv (Python virtual environment) volder was I started to create a simple project.
+I'm currently working on a mcChanger in python. 
