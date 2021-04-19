@@ -2250,17 +2250,14 @@ Today I'm looking into the locomotive scrolling effects. Trying to check on how 
 Today I'm still checking out some examples for the use of locomotive-scroll.Found out how to scroll elements horizontally or vertically. 
 
 
-
-
 #DAY 6
 #100DaysOfCode #R4 Day5 April 18, 2021
 Still worked on the band landing page and found a good repository for a jquery for animate scrolling. Also worked on the carousel for the band landing page. 
 
-
-
-
-
-
+#DAY 7
+#100DaysOfCode #R4 Day7 April 19, 2021
+Today I just tried to embed a youtube video into the band landing page. 
+Firefox wasn't displaying it but in chrome it work without having the need to open it in a tab.
 
 
 
