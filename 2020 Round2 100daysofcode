@@ -2276,4 +2276,8 @@ Today I just worked on adding the close button for the popup button for our band
 #100DaysOfCode #R4 Day10 April 22, 2021
 Today I just look into how to create a horizontal scrolling project. Still working on some other parts and media querries for the band landing page. 
 
+#DAY 11
+#100DaysOfCode #R4 Day11 April 25, 2021
+encountered issues in installing openssh-server in ubuntu for me to be able to create an ssh server. I was able to resolve 
+the issue by removing the lock files and was able to start accessing ssh server in the machine.
 
