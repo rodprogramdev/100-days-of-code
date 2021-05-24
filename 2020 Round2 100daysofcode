@@ -2326,3 +2326,11 @@ https://github.com/rodprogramdev/html-best-practices
 #DAY 19
 #100DaysOfCode #R4 Day18 May 18, 2021
 Today I worked on understanding further http headers, get, put, post, and delete methods. Also worked on finishing the flexpanel #javascript30 exercise.
+
+
+
+#DAY 20
+#100DaysOfCode #R4 Day20 May 24, 2021
+Just worked on slide on scroll exercise for the javaScript30. I learned about the debounce function.
+Also about the window.scrollY for identifying pixel level.
+Still need to breakdown the concept on how the debounce function works.
