@@ -2334,3 +2334,7 @@ Today I worked on understanding further http headers, get, put, post, and delete
 Just worked on slide on scroll exercise for the javaScript30. I learned about the debounce function.
 Also about the window.scrollY for identifying pixel level.
 Still need to breakdown the concept on how the debounce function works.
+
+#DAY 21
+#100DaysOfCode #R4 Day21 May 26, 2021
+Got the scroll on slide working, going to try to implement this in some of my other projects to further understand the math behind how this works.
