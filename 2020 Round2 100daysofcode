@@ -2358,3 +2358,6 @@ Just continued working on an HTML cheat sheet template for a crash course video 
 Today I just studied some linux regular expressions. Also studied how to do escaping of HTML textarea and trying to understand how it works in the DOM.
 
 
+#Day26
+#100DaysOfCode #R4 Day26 June 13, 2021
+Learned about the different patterns I could work with in regular expressions for excluding and including in search options in linux. "[h]ello\.world"
