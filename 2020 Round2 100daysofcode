@@ -2361,3 +2361,8 @@ Today I just studied some linux regular expressions. Also studied how to do esca
 #Day26
 #100DaysOfCode #R4 Day26 June 13, 2021
 Learned about the different patterns I could work with in regular expressions for excluding and including in search options in linux. "[h]ello\.world"
+
+#Day27
+#100DaysOfCode #R4 Day27 June 16, 2021
+Did a bit of machine code and C today reviewing some syntax like format specifiers in C. Learned about the term address offset and %rbp stack base pointer. Learned about setting a breakpoint using a memory address and then figuring out where to look for the values after running px @rbp- command.
+
