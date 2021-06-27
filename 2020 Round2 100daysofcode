@@ -2366,3 +2366,9 @@ Learned about the different patterns I could work with in regular expressions fo
 #100DaysOfCode #R4 Day27 June 16, 2021
 Did a bit of machine code and C today reviewing some syntax like format specifiers in C. Learned about the term address offset and %rbp stack base pointer. Learned about setting a breakpoint using a memory address and then figuring out where to look for the values after running px @rbp- command.
 
+#Day28
+#100DaysOfCode #R4 Day28 June 27, 2021
+Been busy at work computing grades and havent been able to Post. Today I have published the HTML crash course 
+for absolute beginners that I've been working on. Also working on setting up a webserver in Ubuntu. 
+https://youtu.be/U3fqzXjwrZY
+
