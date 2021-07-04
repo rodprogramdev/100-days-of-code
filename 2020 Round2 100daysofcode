@@ -2394,3 +2394,9 @@ the hero jump.
 #100DaysOfCode #R4 Day32 July 3, 2021
 Today I just did some basic background for testing purpose. I was also able to go and try to make the character jump using an onclick event.
 
+#Day33 July 4, 2021
+#100DaysOfCode #R4 Day33 
+#100DaysofGameDev #R1 Day9
+Created some trees for the background, encountered an error in 
+trying to code the collision script and was able to find the reason why the 
+window.getComputedStyle was saying not an object. Was able to make the collision work.
