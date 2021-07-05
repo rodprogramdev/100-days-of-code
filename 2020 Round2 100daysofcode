@@ -2396,7 +2396,24 @@ Today I just did some basic background for testing purpose. I was also able to g
 
 #Day33 July 4, 2021
 #100DaysOfCode #R4 Day33 
-#100DaysofGameDev #R1 Day9
 Created some trees for the background, encountered an error in 
 trying to code the collision script and was able to find the reason why the 
 window.getComputedStyle was saying not an object. Was able to make the collision work.
+
+
+#Day34 July 5, 2021
+#100DaysOfCode #R4 Day34
+#100DaysofGameDev #R1 Day9
+Today I am trying to work on applying background
+image to horizontal scrolling. Also did some changes 
+with the sample background and made character
+dissapear once it gets hit with enemy.
+
+
+
+
+
+
+
+
+
