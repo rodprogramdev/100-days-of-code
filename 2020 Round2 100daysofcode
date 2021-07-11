@@ -2453,7 +2453,12 @@ July 10, 2021
 Today I just did a quick design for a simple boss enemy and was able to make it fire bullets. 
 
 
-
+#100DaysOfCode #R4 #Day40
+#100DaysofGameDev #R1 #Day15
+Today I was able to solve the bug issue
+with the character having no boundaries when moving on the leftside and movingup of the 
+game area using nested if statements. Also learned about how we can use the pythagorean theorem for collision still need to learn
+how to apply it though. Still need to work on the right side and bottom part of the game area.
 
 
 
