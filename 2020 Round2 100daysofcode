@@ -2461,5 +2461,12 @@ game area using nested if statements. Also learned about how we can use the pyth
 how to apply it though. Still need to work on the right side and bottom part of the game area.
 
 
+#100DaysOfCode #R4 #Day41
+#100DaysofGameDev #R1 #Day16
+Today I just worked on the right and bottom side for the boundaries when character is moving. I am also still researching for 
+possible solutions for the div elements collision for character collision in vanilla javascript.
+
+
+
 
 
