@@ -2467,6 +2467,9 @@ Today I just worked on the right and bottom side for the boundaries when charact
 possible solutions for the div elements collision for character collision in vanilla javascript.
 
 
-
+#100DaysOfCode #R4 #Day42
+#100DaysofGameDev #R1 #Day17
+Was able to implement collision between snake characters and the hero character. Still plenty of bugs. Need to get my
+head wrapped on the concept of collision. Reading and re-reading the documentation over and over again :)
 
 
