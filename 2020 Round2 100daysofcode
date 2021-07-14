@@ -2473,3 +2473,9 @@ Was able to implement collision between snake characters and the hero character.
 head wrapped on the concept of collision. Reading and re-reading the documentation over and over again :)
 
 
+#100DaysOfCode #R4 #Day43
+#100DaysofGameDev #R1 #Day18
+Was able to solve the issue of snake enemy dissapearing when character 
+goes down. Has an issue with attack button once pressed enemy keeps on dissapearing.
+Also continued with my online cours from sir Chris De Leon Tile Classics in JS for today 
+to learn some more concepts in game dev.
