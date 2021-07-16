@@ -2488,3 +2488,8 @@ I was able to separate the attack function from the gameover function.
 Now a new bug appeared. Once I reach the point of spawning of character. I get a collision that kills the character. I've tried style.display none 
 but its not working. 
 
+
+#100DaysOfCode #R4 #Day45
+#100DaysofGameDev #R1 #Day20
+Was able to solve the issue of character colliding at spawning point of snake enemy. 
+Trying to work on bouncing back the fireblast of the mainBot boss for today.
