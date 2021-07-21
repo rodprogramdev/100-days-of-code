@@ -2510,3 +2510,16 @@ Just started working on the Car Race Game project.
 #100DaysofGameDev #R1 #Day23
 Today I just continued with the Tiles games course of @ChrisDeLeon, learning a lot of great concepts 
 in game design. I was able to create car asset in GIMP and was able to implement it in the game world. No functionality yet.
+
+
+
+#100DaysOfCode #R4 #Day49
+#100DaysofGameDev #R1 #Day24
+Today I just continued with sir @ChrisDeLeon course and worked on making the car move. Currently working on the code refactoring for
+separating functions into separate files. Learned about the concept of using booleans
+for keypress and keyreleased.
+
+
+
+
+
